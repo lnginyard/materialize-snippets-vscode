@@ -6,6 +6,9 @@
     "version": "1.0.0",
     "publisher": "Lenin Peña",
     "license": "See License section in LICENSE.md",
+    "bugs": {
+      "url": "https://github.com/leninalbertolp/materialize-snippets-vscode/issues"
+    },
     "homepage": "https://github.com/leninalbertolp/materialize-snippets-vscode/blob/master/README.md",
     "repository": {
       "type": "git",
