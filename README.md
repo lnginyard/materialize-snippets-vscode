@@ -5,8 +5,8 @@ A set of Materialize CSS Snippets for Visual Studio Code, ordered semantically f
 
 ## How to install
 
-1. In VScode type `F1` or `Ctrl-Shift-P` (Windows and Linux) or `Cmd-Shift-P` (MacOS) and press enter.
-2. In the search box, type materialize-snippets and select it.
+1. In VScode type `F1` or `Ctrl-Shift-P` (Windows and Linux) or `Cmd-Shift-P` (MacOS). Type install extension and press enter.
+2. In the search box, type **materialize snippets** and select it.
 3. In the next window with the details of the plugin click on install button, that's it.
 4. Reload or restart VScode for the changes to take effect.
 
