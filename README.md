@@ -53,8 +53,8 @@ Remember to put the word **mz-** and then the component that you want to call, *
 ### badge
 | Snippet | Snippet Content | Description |
 |---------|-----------------|-------------|
-| mz-badge: | badge-default | Default Badge |
-| mz-badge: | badge-new | New Badge |
+| mz-badge: | default | Default Badge |
+| mz-badge: | new | New Badge |
 
 ### breadcrumb
 | Snippet | Snippet Content | Description |
@@ -82,11 +82,14 @@ Remember to put the word **mz-** and then the component that you want to call, *
 | mz-btn: | large-icon-left | Large button with icon on the left|
 | mz-btn: | large-icon-right | Large button with icon on the right|
 | mz-btn: | submit | Submit Button|
+| mz-btn: | fab-toolbar | Fixed action button toolbar|
 
 ### card
 | Snippet | Snippet Content | Description |
 |---------|-----------------|-------------|
 | mz-card: | basic | Basic Card|
+| mz-card: | fab-large| Card with large Floating Action Button|
+| mz-card: | fab-small| Card with small Floating Action Button|
 | mz-card: | panel | Panel Card|
 | mz-card: | horizontal | Horinzontal Card|
 | mz-card: | image | Image Card|
@@ -165,7 +168,7 @@ Remember to put the word **mz-** and then the component that you want to call, *
 | mz-preloader: | linear-determinate | Preloader linear determinate|
 | mz-preloader: | linear-indeterminate | Preloader linear indeterminate|
 
-##JavaScript
+## JavaScript
 ### carousel
 | Snippet | Snippet Content | Description |
 |---------|-----------------|-------------|
@@ -196,6 +199,11 @@ Remember to put the word **mz-** and then the component that you want to call, *
 |---------|-----------------|-------------|
 | mz-dropdown: | dropdown | Dropdown Structure|
 
+### featurediscovery
+| Snippet | Snippet Content | Description |
+|---------|-----------------|-------------|
+| mz-featurediscovery: | tap-target | Tap Target|
+
 ### mediajs
 | Snippet | Snippet Content | Description |
 |---------|-----------------|-------------|
@@ -223,3 +231,4 @@ Remember to put the word **mz-** and then the component that you want to call, *
 | Snippet | Snippet Content | Description |
 |---------|-----------------|-------------|
 | mz-tabs: | default | Default Tab|
+| mz-tabs: | swipeable | Swipeable tab|

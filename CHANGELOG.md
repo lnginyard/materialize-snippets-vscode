@@ -1,5 +1,16 @@
 # Change Log
 
+## 1.1.1 - (April 2017/04)
+- Updated the link CDN for CSS, JS file to 0.98.2 and jQuery files to 3.2.1
+- Updated structure HTML template snippets cdn and local
+- Added New Snippet: FAB to Toolbar (mz-btn:fab-toolbar)
+- Added New Snippet: Swipeable Tabs (mz-tabs:swipeable)
+- Added New Snippet: Card with small Floating Action Button (mz-card:fab-small)
+- Added New Snippet: Card with large Floating Action Button (mz-card:fab-large)
+- Added New Snippet in javascript component: Feature Discovery (mz-featurediscovery:tap-target)
+- It rewrote the structure of snippets for better semantics in the work area (see table of contents)
+- Bugs Fixed
+
 ## Version 1.0.0 - (24 December 2016)
 
 - Initial release
