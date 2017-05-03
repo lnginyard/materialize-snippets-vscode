@@ -1,5 +1,6 @@
 # Change Log
 
+## 1.1.2 - (03 May 2017)
 - Removed escape characters that insert a line break in the snippets
 
 ## 1.1.1 - (29 April 2017)
