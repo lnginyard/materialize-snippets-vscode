@@ -1,6 +1,8 @@
 # Change Log
 
-## 1.1.1 - (April 2017/04)
+- Removed escape characters that insert a line break in the snippets
+
+## 1.1.1 - (29 April 2017)
 - Updated the link CDN for CSS, JS file to 0.98.2 and jQuery files to 3.2.1
 - Updated structure HTML template snippets cdn and local
 - Added New Snippet: FAB to Toolbar (mz-btn:fab-toolbar)

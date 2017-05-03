@@ -1,673 +1,673 @@
 {
 	"mz-badge:default": {
 		"prefix": "mz-badge:default",
-		"body": "\r\n<span class=\"badge\">8</span>\r\n",
+		"body": "<span class=\"badge\">8</span>",
 		"description": "Default badge",
 		"scope": "text.html"
 	},
 	"mz-badge:new": {
 		"prefix": "mz-badge:new",
-		"body": "\r\n<span class=\"new badge\">4</span>\r\n",
+		"body": "<span class=\"new badge\">4</span>",
 		"description": "New badge",
 		"scope": "text.html"
 	},
 	"mz-breadcrumb:breadcrumb": {
 		"prefix": "mz-breadcrumb:breadcrumb",
-		"body": "\r\n<nav>\r\n\t<div class=\"nav-wrapper\">\r\n\t\t<div class=\"col s12\">\r\n\t\t\t<a href=\"#!\" class=\"breadcrumb\">Home</a>\r\n\t\t\t<a href=\"#!\" class=\"breadcrumb\">Blog</a>\r\n\t\t\t<a href=\"#!\" class=\"breadcrumb\">Post</a>\r\n\t\t</div>\r\n\t</div>\r\n</nav>\r\n",
+		"body": "<nav>\r\n\t<div class=\"nav-wrapper\">\r\n\t\t<div class=\"col s12\">\r\n\t\t\t<a href=\"#!\" class=\"breadcrumb\">Home</a>\r\n\t\t\t<a href=\"#!\" class=\"breadcrumb\">Blog</a>\r\n\t\t\t<a href=\"#!\" class=\"breadcrumb\">Post</a>\r\n\t\t</div>\r\n\t</div>\r\n</nav>",
 		"description": "Breadcrumb",
 		"scope": "text.html"
 	},
 	"mz-btn:default": {
 		"prefix": "mz-btn:default",
-		"body": "\r\n<a href=\"#\" class=\"waves-effect waves-light btn\">Button</a>\r\n",
+		"body": "<a href=\"#\" class=\"waves-effect waves-light btn\">Button</a>",
 		"description": "Default button",
 		"scope": "text.html"
 	},
 	"mz-btn:disabled": {
 		"prefix": "mz-btn:disabled",
-		"body": "\r\n<a href=\"#\" class=\"btn disabled\">button</a>\r\n",
+		"body": "<a href=\"#\" class=\"btn disabled\">button</a>",
 		"description": "Button disabled",
 		"scope": "text.html"
 	},
 	"mz-btn:fab-ct-h": {
 		"prefix": "mz-btn:fab-ct-h",
-		"body": "\r\n<div class=\"fixed-action-btn horizontal click-to-toggle\">\r\n\t<a class=\"btn-floating btn-large red\"><i class=\"large material-icons\">add</i></a>\r\n\t<ul>\r\n\t\t<li><a href=\"#\" class=\"btn-floating red\"><i class=\"material-icons\">insert_chart</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating yellow\"><i class=\"material-icons\">format_quote</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating green\"><i class=\"material-icons\">publish</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating blue\"><i class=\"material-icons\">attach_file</i></a></li>\r\n\t</ul>\r\n</div>\r\n",
+		"body": "<div class=\"fixed-action-btn horizontal click-to-toggle\">\r\n\t<a class=\"btn-floating btn-large red\"><i class=\"large material-icons\">add</i></a>\r\n\t<ul>\r\n\t\t<li><a href=\"#\" class=\"btn-floating red\"><i class=\"material-icons\">insert_chart</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating yellow\"><i class=\"material-icons\">format_quote</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating green\"><i class=\"material-icons\">publish</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating blue\"><i class=\"material-icons\">attach_file</i></a></li>\r\n\t</ul>\r\n</div>",
 		"description": "Fixed action button click to toggle horizontal",
 		"scope": "text.html"
 	},
 	"mz-btn:fab-ct-v": {
 		"prefix": "mz-btn:fab-ct-v",
-		"body": "\r\n<div class=\"fixed-action-btn click-to-toggle\">\r\n\t<a class=\"btn-floating btn-large red\"><i class=\"large material-icons\">add</i></a>\r\n\t<ul>\r\n\t\t<li><a href=\"#\" class=\"btn-floating red\"><i class=\"material-icons\">insert_chart</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating yellow\"><i class=\"material-icons\">format_quote</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating green\"><i class=\"material-icons\">publish</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating blue\"><i class=\"material-icons\">attach_file</i></a></li>\r\n\t</ul>\r\n</div>\r\n",
+		"body": "<div class=\"fixed-action-btn click-to-toggle\">\r\n\t<a class=\"btn-floating btn-large red\"><i class=\"large material-icons\">add</i></a>\r\n\t<ul>\r\n\t\t<li><a href=\"#\" class=\"btn-floating red\"><i class=\"material-icons\">insert_chart</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating yellow\"><i class=\"material-icons\">format_quote</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating green\"><i class=\"material-icons\">publish</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating blue\"><i class=\"material-icons\">attach_file</i></a></li>\r\n\t</ul>\r\n</div>",
 		"description": "Fixed action button click to toggle vertical",
 		"scope": "text.html"
 	},
 	"mz-btn:fab-h": {
 		"prefix": "mz-btn:fab-h",
-		"body": "\r\n<div class=\"fixed-action-btn horizontal\">\r\n\t<a class=\"btn-floating btn-large red\"><i class=\"large material-icons\">add</i></a>\r\n\t<ul>\r\n\t\t<li><a href=\"#\" class=\"btn-floating red\"><i class=\"material-icons\">insert_chart</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating yellow\"><i class=\"material-icons\">format_quote</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating green\"><i class=\"material-icons\">publish</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating blue\"><i class=\"material-icons\">attach_file</i></a></li>\r\n\t</ul>\r\n</div>\r\n",
+		"body": "<div class=\"fixed-action-btn horizontal\">\r\n\t<a class=\"btn-floating btn-large red\"><i class=\"large material-icons\">add</i></a>\r\n\t<ul>\r\n\t\t<li><a href=\"#\" class=\"btn-floating red\"><i class=\"material-icons\">insert_chart</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating yellow\"><i class=\"material-icons\">format_quote</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating green\"><i class=\"material-icons\">publish</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating blue\"><i class=\"material-icons\">attach_file</i></a></li>\r\n\t</ul>\r\n</div>",
 		"description": "Fixed action button horizontal",
 		"scope": "text.html"
 	},
 	"mz-btn:fab-toolbar": {
 		"prefix": "mz-btn:fab-toolbar",
-		"body": "\r\n<div class=\"fixed-action-btn toolbar\">\r\n    <a class=\"btn-floating btn-large red\">\r\n      <i class=\"large material-icons\">mode_edit</i>\r\n    </a>\r\n    <ul>\r\n      <li class=\"waves-effect waves-light\"><a href=\"#!\"><i class=\"material-icons\">insert_chart</i></a></li>\r\n      <li class=\"waves-effect waves-light\"><a href=\"#!\"><i class=\"material-icons\">format_quote</i></a></li>\r\n      <li class=\"waves-effect waves-light\"><a href=\"#!\"><i class=\"material-icons\">publish</i></a></li>\r\n      <li class=\"waves-effect waves-light\"><a href=\"#!\"><i class=\"material-icons\">attach_file</i></a></li>\r\n    </ul>\r\n</div>\r\n",
+		"body": "<div class=\"fixed-action-btn toolbar\">\r\n    <a class=\"btn-floating btn-large red\">\r\n      <i class=\"large material-icons\">mode_edit</i>\r\n    </a>\r\n    <ul>\r\n      <li class=\"waves-effect waves-light\"><a href=\"#!\"><i class=\"material-icons\">insert_chart</i></a></li>\r\n      <li class=\"waves-effect waves-light\"><a href=\"#!\"><i class=\"material-icons\">format_quote</i></a></li>\r\n      <li class=\"waves-effect waves-light\"><a href=\"#!\"><i class=\"material-icons\">publish</i></a></li>\r\n      <li class=\"waves-effect waves-light\"><a href=\"#!\"><i class=\"material-icons\">attach_file</i></a></li>\r\n    </ul>\r\n</div>",
 		"description": "Fixed action button toolbar",
 		"scope": "text.html"
 	},
 	"mz-btn:fab-v": {
 		"prefix": "mz-btn:fab-v",
-		"body": "\r\n<div class=\"fixed-action-btn\">\r\n\t<a class=\"btn-floating btn-large red\"><i class=\"large material-icons\">add</i></a>\r\n\t<ul>\r\n\t\t<li><a href=\"#\" class=\"btn-floating red\"><i class=\"material-icons\">insert_chart</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating yellow\"><i class=\"material-icons\">format_quote</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating green\"><i class=\"material-icons\">publish</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating blue\"><i class=\"material-icons\">attach_file</i></a></li>\r\n\t</ul>\r\n</div>\r\n",
+		"body": "<div class=\"fixed-action-btn\">\r\n\t<a class=\"btn-floating btn-large red\"><i class=\"large material-icons\">add</i></a>\r\n\t<ul>\r\n\t\t<li><a href=\"#\" class=\"btn-floating red\"><i class=\"material-icons\">insert_chart</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating yellow\"><i class=\"material-icons\">format_quote</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating green\"><i class=\"material-icons\">publish</i></a></li>\r\n\t\t<li><a href=\"#\" class=\"btn-floating blue\"><i class=\"material-icons\">attach_file</i></a></li>\r\n\t</ul>\r\n</div>",
 		"description": "Fixed action button vertical",
 		"scope": "text.html"
 	},
 	"mz-btn:flat-disabled": {
 		"prefix": "mz-btn:flat-disabled",
-		"body": "\r\n<a href=\"#\" class=\"btn-flat disabled\">button</a>\r\n",
+		"body": "<a href=\"#\" class=\"btn-flat disabled\">button</a>",
 		"description": "Button falt disabled",
 		"scope": "text.html"
 	},
 	"mz-btn:flat": {
 		"prefix": "mz-btn:flat",
-		"body": "\r\n<a href=\"#\" class=\"waves-effect waves-teal btn-flat\">button</a>\r\n",
+		"body": "<a href=\"#\" class=\"waves-effect waves-teal btn-flat\">button</a>",
 		"description": "Button flat",
 		"scope": "text.html"
 	},
 	"mz-btn:floating": {
 		"prefix": "mz-btn:floating",
-		"body": "\r\n<a href=\"#\" class=\"btn-floating btn-large waves-effect waves-light red\"><i class=\"material-icons\">add</i></a>\r\n",
+		"body": "<a href=\"#\" class=\"btn-floating btn-large waves-effect waves-light red\"><i class=\"material-icons\">add</i></a>",
 		"description": "Button floating",
 		"scope": "text.html"
 	},
 	"mz-btn:floating-disabled": {
 		"prefix": "mz-btn:floating-disabled",
-		"body": "\r\n<a href=\"#\" class=\"btn-floating disabled\"><i class=\"material-icons\">add</i></a>\r\n",
+		"body": "<a href=\"#\" class=\"btn-floating disabled\"><i class=\"material-icons\">add</i></a>",
 		"description": "Button floating disabled",
 		"scope": "text.html"
 	},
 	"mz-btn:icon-left": {
 		"prefix": "mz-btn:icon-left",
-		"body": "\r\n<a href=\"#\" class=\"waves-effect waves-light btn\"><i class=\"material-icons left\">cloud</i>Button</a>\r\n",
+		"body": "<a href=\"#\" class=\"waves-effect waves-light btn\"><i class=\"material-icons left\">cloud</i>Button</a>",
 		"description": "Button with icon to the left",
 		"scope": "text.html"
 	},
 	"mz-btn:icon-right": {
 		"prefix": "mz-btn:icon-right",
-		"body": "\r\n<a href=\"#\" class=\"waves-effect waves-light btn\"><i class=\"material-icons right\">cloud</i>Button</a>\r\n",
+		"body": "<a href=\"#\" class=\"waves-effect waves-light btn\"><i class=\"material-icons right\">cloud</i>Button</a>",
 		"description": "Button with icon to the right",
 		"scope": "text.html"
 	},
 	"mz-btn:large-disabled": {
 		"prefix": "mz-btn:large-disabled",
-		"body": "\r\n<a href=\"#\" class=\"btn-large disabled\">button</a>\r\n",
+		"body": "<a href=\"#\" class=\"btn-large disabled\">button</a>",
 		"description": "Large button disabled",
 		"scope": "text.html"
 	},
 	"mz-btn:large-icon-left": {
 		"prefix": "mz-btn:large-icon-left",
-		"body": "\r\n<a href=\"#\" class=\"waves-effect waves-light btn-large\"><i class=\"material-icons left\">cloud</i>Button</a>\r\n",
+		"body": "<a href=\"#\" class=\"waves-effect waves-light btn-large\"><i class=\"material-icons left\">cloud</i>Button</a>",
 		"description": "Large button with icon on the left",
 		"scope": "text.html"
 	},
 	"mz-btn:large-icon-right": {
 		"prefix": "mz-btn:large-icon-right",
-		"body": "\r\n<a href=\"#\" class=\"waves-effect waves-light btn-large\"><i class=\"material-icons right\">cloud</i>Button</a>\r\n",
+		"body": "<a href=\"#\" class=\"waves-effect waves-light btn-large\"><i class=\"material-icons right\">cloud</i>Button</a>",
 		"description": "Large button with icon on the right",
 		"scope": "text.html"
 	},
 	"mz-btn:large": {
 		"prefix": "mz-btn:large",
-		"body": "\r\n<a href=\"#\" class=\"waves-effect waves-light btn-large\">Button</a>\r\n",
+		"body": "<a href=\"#\" class=\"waves-effect waves-light btn-large\">Button</a>",
 		"description": "Large button",
 		"scope": "text.html"
 	},
 	"mz-btn:submit": {
 		"prefix": "mz-btn:submit",
-		"body": "\r\n<button class=\"btn waves-effect waves-light\" type=\"submit\" name=\"action\">Submit\r\n\t<i class=\"material-icons right\">send</i>\r\n</button>\r\n",
+		"body": "<button class=\"btn waves-effect waves-light\" type=\"submit\" name=\"action\">Submit\r\n\t<i class=\"material-icons right\">send</i>\r\n</button>",
 		"description": "Submit button",
 		"scope": "text.html"
 	},
 	"mz-card:basic": {
 		"prefix": "mz-card:basic",
-		"body": "\r\n<div class=\"card blue-grey darken-1\">\r\n\t<div class=\"card-content white-text\">\r\n\t\t<span class=\"card-title\"></span>\r\n\t\t<p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>\r\n\t</div>\r\n\t<div class=\"card-action\">\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t</div>\r\n</div>\r\n",
+		"body": "<div class=\"card blue-grey darken-1\">\r\n\t<div class=\"card-content white-text\">\r\n\t\t<span class=\"card-title\"></span>\r\n\t\t<p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>\r\n\t</div>\r\n\t<div class=\"card-action\">\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t</div>\r\n</div>",
 		"description": "Basic card",
 		"scope": "text.html"
 	},
 	"mz-card:fab-large": {
 		"prefix": "mz-card:fab-large",
-		"body": "\r\n<div class=\"card\">\r\n  <div class=\"card-image\">\r\n    <img src=\"http://materializecss.com/images/sample-1.jpg\">\r\n    <a class=\"btn-floating btn-large halfway-fab waves-effect waves-light red\"><i class=\"material-icons\">add</i></a>\r\n  </div>\r\n  <div class=\"card-content\">\r\n    <span class=\"card-title\">Card Title</span>\r\n    <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>\r\n  </div>\r\n</div>\r\n",
+		"body": "<div class=\"card\">\r\n  <div class=\"card-image\">\r\n    <img src=\"http://materializecss.com/images/sample-1.jpg\">\r\n    <a class=\"btn-floating btn-large halfway-fab waves-effect waves-light red\"><i class=\"material-icons\">add</i></a>\r\n  </div>\r\n  <div class=\"card-content\">\r\n    <span class=\"card-title\">Card Title</span>\r\n    <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>\r\n  </div>\r\n</div>",
 		"description": "Card with large Floating Action Button",
 		"scope": "text.html"
 	},
 	"mz-card:fab-small": {
 		"prefix": "mz-card:fab-small",
-		"body": "\r\n<div class=\"card\">\r\n  <div class=\"card-image\">\r\n    <img src=\"http://materializecss.com/images/sample-1.jpg\">\r\n    <span class=\"card-title\">Card Title</span>\r\n    <a class=\"btn-floating halfway-fab waves-effect waves-light red\"><i class=\"material-icons\">add</i></a>\r\n  </div>\r\n  <div class=\"card-content\">\r\n    <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>\r\n  </div>\r\n</div>\r\n",
+		"body": "<div class=\"card\">\r\n  <div class=\"card-image\">\r\n    <img src=\"http://materializecss.com/images/sample-1.jpg\">\r\n    <span class=\"card-title\">Card Title</span>\r\n    <a class=\"btn-floating halfway-fab waves-effect waves-light red\"><i class=\"material-icons\">add</i></a>\r\n  </div>\r\n  <div class=\"card-content\">\r\n    <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>\r\n  </div>\r\n</div>",
 		"description": "Card with small Floating Action Button",
 		"scope": "text.html"
 	},
 	"mz-card:horizontal": {
 		"prefix": "mz-card:horizontal",
-		"body": "\r\n<div class=\"card horizontal\">\r\n  <div class=\"card-image\">\r\n    <img src=\"\">\r\n  </div>\r\n  <div class=\"card-stacked\">\r\n    <div class=\"card-content\">\r\n      <p>I am a very simple card. I am good at containing small bits of information.</p>\r\n    </div>\r\n    <div class=\"card-action\">\r\n      <a href=\"#\">This is a link</a>\r\n    </div>\r\n  </div>\r\n</div>\r\n",
+		"body": "<div class=\"card horizontal\">\r\n  <div class=\"card-image\">\r\n    <img src=\"\">\r\n  </div>\r\n  <div class=\"card-stacked\">\r\n    <div class=\"card-content\">\r\n      <p>I am a very simple card. I am good at containing small bits of information.</p>\r\n    </div>\r\n    <div class=\"card-action\">\r\n      <a href=\"#\">This is a link</a>\r\n    </div>\r\n  </div>\r\n</div>",
 		"description": "Horizontal card",
 		"scope": "text.html"
 	},
 	"mz-card:image-lg": {
 		"prefix": "mz-card:image-lg",
-		"body": "\r\n<div class=\"card large\">\r\n\t<div class=\"card-image\">\r\n\t\t<img src=\"\" alt=\"\"/>\r\n\t\t<span class=\"card-title\"></span>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<p>I am a very simple card. I am good at containing small bits of information.I am convenient because I require little markup to use effectively.</p>\r\n\t</div>\r\n\t<div class=\"card-action\">\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t</div>\r\n</div>\r\n",
+		"body": "<div class=\"card large\">\r\n\t<div class=\"card-image\">\r\n\t\t<img src=\"\" alt=\"\"/>\r\n\t\t<span class=\"card-title\"></span>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<p>I am a very simple card. I am good at containing small bits of information.I am convenient because I require little markup to use effectively.</p>\r\n\t</div>\r\n\t<div class=\"card-action\">\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t</div>\r\n</div>",
 		"description": "Image card large",
 		"scope": "text.html"
 	},
 	"mz-card:image-md": {
 		"prefix": "mz-card:image-md",
-		"body": "\r\n<div class=\"card medium\">\r\n\t<div class=\"card-image\">\r\n\t\t<img src=\"\" alt=\"\"/>\r\n\t\t<span class=\"card-title\"></span>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<p>I am a very simple card. I am good at containing small bits of information.I am convenient because I require little markup to use effectively.</p>\r\n\t</div>\r\n\t<div class=\"card-action\">\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t</div>\r\n</div>\r\n",
+		"body": "<div class=\"card medium\">\r\n\t<div class=\"card-image\">\r\n\t\t<img src=\"\" alt=\"\"/>\r\n\t\t<span class=\"card-title\"></span>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<p>I am a very simple card. I am good at containing small bits of information.I am convenient because I require little markup to use effectively.</p>\r\n\t</div>\r\n\t<div class=\"card-action\">\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t</div>\r\n</div>",
 		"description": "Image card medium",
 		"scope": "text.html"
 	},
 	"mz-card:image-sm": {
 		"prefix": "mz-card:image-sm",
-		"body": "\r\n<div class=\"card small\">\r\n\t<div class=\"card-image\">\r\n\t\t<img src=\"\" alt=\"\"/>\r\n\t\t<span class=\"card-title\"></span>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<p>I am a very simple card. I am good at containing small bits of information.I am convenient because I require little markup to use effectively.</p>\r\n\t</div>\r\n\t<div class=\"card-action\">\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t</div>\r\n</div>\r\n",
+		"body": "<div class=\"card small\">\r\n\t<div class=\"card-image\">\r\n\t\t<img src=\"\" alt=\"\"/>\r\n\t\t<span class=\"card-title\"></span>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<p>I am a very simple card. I am good at containing small bits of information.I am convenient because I require little markup to use effectively.</p>\r\n\t</div>\r\n\t<div class=\"card-action\">\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t</div>\r\n</div>",
 		"description": "Image card small",
 		"scope": "text.html"
 	},
 	"mz-card:image": {
 		"prefix": "mz-card:image",
-		"body": "\r\n<div class=\"card\">\r\n\t<div class=\"card-image\">\r\n\t\t<img src=\"\" alt=\"\"/>\r\n\t\t<span class=\"card-title\"></span>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<p>I am a very simple card. I am good at containing small bits of information.I am convenient because I require little markup to use effectively.</p>\r\n\t</div>\r\n\t<div class=\"card-action\">\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t</div>\r\n</div>\r\n",
+		"body": "<div class=\"card\">\r\n\t<div class=\"card-image\">\r\n\t\t<img src=\"\" alt=\"\"/>\r\n\t\t<span class=\"card-title\"></span>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<p>I am a very simple card. I am good at containing small bits of information.I am convenient because I require little markup to use effectively.</p>\r\n\t</div>\r\n\t<div class=\"card-action\">\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t</div>\r\n</div>",
 		"description": "Image card",
 		"scope": "text.html"
 	},
 	"mz-card:panel": {
 		"prefix": "mz-card:panel",
-		"body": "\r\n<div class=\"card-panel teal\">\r\n\t<span class=\"white-text\">I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively. I am similar to what is called a panel in other frameworks.</span>\r\n</div>\r\n",
+		"body": "<div class=\"card-panel teal\">\r\n\t<span class=\"white-text\">I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively. I am similar to what is called a panel in other frameworks.</span>\r\n</div>",
 		"description": "Panel card",
 		"scope": "text.html"
 	},
 	"mz-card:rao-lg": {
 		"prefix": "mz-card:rao-lg",
-		"body": "\r\n<div class=\"card large\">\r\n\t<div class=\"card-image waves-effect waves-block waves-light\">\r\n\t\t<img src=\"\" alt=\"\" class=\"activator\"/>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">more_vert</i></span>\r\n\t\t<p><a href=\"#\">This is a link</a></p>\r\n\t</div>\r\n\t<div class=\"card-action\">\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t</div>\r\n\t<div class=\"card-reveal\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">close</i></span>\r\n\t\t<p>Here is some more information about this product that is only revealed once clicked on.</p>\r\n\t</div>\r\n</div>\r\n",
+		"body": "<div class=\"card large\">\r\n\t<div class=\"card-image waves-effect waves-block waves-light\">\r\n\t\t<img src=\"\" alt=\"\" class=\"activator\"/>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">more_vert</i></span>\r\n\t\t<p><a href=\"#\">This is a link</a></p>\r\n\t</div>\r\n\t<div class=\"card-action\">\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t</div>\r\n\t<div class=\"card-reveal\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">close</i></span>\r\n\t\t<p>Here is some more information about this product that is only revealed once clicked on.</p>\r\n\t</div>\r\n</div>",
 		"description": "Card reveal action option large",
 		"scope": "text.html"
 	},
 	"mz-card:rao-md": {
 		"prefix": "mz-card:rao-md",
-		"body": "\r\n<div class=\"card medium\">\r\n\t<div class=\"card-image waves-effect waves-block waves-light\">\r\n\t\t<img src=\"\" alt=\"\" class=\"activator\"/>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">more_vert</i></span>\r\n\t\t<p><a href=\"#\">This is a link</a></p>\r\n\t</div>\r\n\t<div class=\"card-action\">\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t</div>\r\n\t<div class=\"card-reveal\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">close</i></span>\r\n\t\t<p>Here is some more information about this product that is only revealed once clicked on.</p>\r\n\t</div>\r\n</div>\r\n",
+		"body": "<div class=\"card medium\">\r\n\t<div class=\"card-image waves-effect waves-block waves-light\">\r\n\t\t<img src=\"\" alt=\"\" class=\"activator\"/>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">more_vert</i></span>\r\n\t\t<p><a href=\"#\">This is a link</a></p>\r\n\t</div>\r\n\t<div class=\"card-action\">\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t</div>\r\n\t<div class=\"card-reveal\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">close</i></span>\r\n\t\t<p>Here is some more information about this product that is only revealed once clicked on.</p>\r\n\t</div>\r\n</div>",
 		"description": "Card reveal action option medium",
 		"scope": "text.html"
 	},
 	"mz-card:rao-sm": {
 		"prefix": "mz-card:rao-sm",
-		"body": "\r\n<div class=\"card small\">\r\n\t<div class=\"card-image waves-effect waves-block waves-light\">\r\n\t\t<img src=\"$\" alt=\"\" class=\"activator\"/>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">more_vert</i></span>\r\n\t\t<p><a href=\"#\">This is a link</a></p>\r\n\t</div>\r\n\t<div class=\"card-action\">\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t</div>\r\n\t<div class=\"card-reveal\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">close</i></span>\r\n\t\t<p>Here is some more information about this product that is only revealed once clicked on.</p>\r\n\t</div>\r\n</div>\r\n",
+		"body": "<div class=\"card small\">\r\n\t<div class=\"card-image waves-effect waves-block waves-light\">\r\n\t\t<img src=\"$\" alt=\"\" class=\"activator\"/>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">more_vert</i></span>\r\n\t\t<p><a href=\"#\">This is a link</a></p>\r\n\t</div>\r\n\t<div class=\"card-action\">\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t</div>\r\n\t<div class=\"card-reveal\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">close</i></span>\r\n\t\t<p>Here is some more information about this product that is only revealed once clicked on.</p>\r\n\t</div>\r\n</div>",
 		"description": "Card reveal action option small",
 		"scope": "text.html"
 	},
 	"mz-card:rao-default": {
 		"prefix": "mz-card:rao-default",
-		"body": "\r\n<div class=\"card\">\r\n\t<div class=\"card-image waves-effect waves-block waves-light\">\r\n\t\t<img src=\"\" alt=\"\" class=\"activator\"/>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">more_vert</i></span>\r\n\t\t<p><a href=\"#\">This is a link</a></p>\r\n\t</div>\r\n\t<div class=\"card-action\">\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t</div>\r\n\t<div class=\"card-reveal\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">close</i></span>\r\n\t\t<p>Here is some more information about this product that is only revealed once clicked on.</p>\r\n\t</div>\r\n</div>\r\n",
+		"body": "<div class=\"card\">\r\n\t<div class=\"card-image waves-effect waves-block waves-light\">\r\n\t\t<img src=\"\" alt=\"\" class=\"activator\"/>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">more_vert</i></span>\r\n\t\t<p><a href=\"#\">This is a link</a></p>\r\n\t</div>\r\n\t<div class=\"card-action\">\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t\t<a href=\"#\">This is a link</a>\r\n\t</div>\r\n\t<div class=\"card-reveal\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">close</i></span>\r\n\t\t<p>Here is some more information about this product that is only revealed once clicked on.</p>\r\n\t</div>\r\n</div>",
 		"description": "Card reveal action option default",
 		"scope": "text.html"
 	},
 	"mz-card:reveal-lg": {
 		"prefix": "mz-card:reveal-lg",
-		"body": "\r\n<div class=\"card large\">\r\n\t<div class=\"card-image waves-effect waves-block waves-light\">\r\n\t\t<img src=\"\" alt=\"\" class=\"activator\"/>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">more_vert</i></span>\r\n\t\t<p><a href=\"#\">This is a link</a></p>\r\n\t</div>\r\n\t<div class=\"card-reveal\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">close</i></span>\r\n\t\t<p>Here is some more information about this product that is only revealed once clicked on.</p>\r\n\t</div>\r\n</div>\r\n",
+		"body": "<div class=\"card large\">\r\n\t<div class=\"card-image waves-effect waves-block waves-light\">\r\n\t\t<img src=\"\" alt=\"\" class=\"activator\"/>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">more_vert</i></span>\r\n\t\t<p><a href=\"#\">This is a link</a></p>\r\n\t</div>\r\n\t<div class=\"card-reveal\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">close</i></span>\r\n\t\t<p>Here is some more information about this product that is only revealed once clicked on.</p>\r\n\t</div>\r\n</div>",
 		"description": "Card reveal large",
 		"scope": "text.html"
 	},
 	"mz-card:reveal-md": {
 		"prefix": "mz-card:reveal-md",
-		"body": "\r\n<div class=\"card medium\">\r\n\t<div class=\"card-image waves-effect waves-block waves-light\">\r\n\t\t<img src=\"\" alt=\"\" class=\"activator\"/>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">more_vert</i></span>\r\n\t\t<p><a href=\"#\">This is a link</a></p>\r\n\t</div>\r\n\t<div class=\"card-reveal\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">close</i></span>\r\n\t\t<p>Here is some more information about this product that is only revealed once clicked on.</p>\r\n\t</div>\r\n</div>\r\n",
+		"body": "<div class=\"card medium\">\r\n\t<div class=\"card-image waves-effect waves-block waves-light\">\r\n\t\t<img src=\"\" alt=\"\" class=\"activator\"/>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">more_vert</i></span>\r\n\t\t<p><a href=\"#\">This is a link</a></p>\r\n\t</div>\r\n\t<div class=\"card-reveal\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">close</i></span>\r\n\t\t<p>Here is some more information about this product that is only revealed once clicked on.</p>\r\n\t</div>\r\n</div>",
 		"description": "Card reveal medium",
 		"scope": "text.html"
 	},
 	"mz-card:reveal-sm": {
 		"prefix": "mz-card:reveal-sm",
-		"body": "\r\n<div class=\"card small\">\r\n\t<div class=\"card-image waves-effect waves-block waves-light\">\r\n\t\t<img src=\"\" alt=\"\" class=\"activator\"/>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">more_vert</i></span>\r\n\t\t<p><a href=\"#\">This is a link</a></p>\r\n\t</div>\r\n\t<div class=\"card-reveal\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">close</i></span>\r\n\t\t<p>Here is some more information about this product that is only revealed once clicked on.</p>\r\n\t</div>\r\n</div>\r\n",
+		"body": "<div class=\"card small\">\r\n\t<div class=\"card-image waves-effect waves-block waves-light\">\r\n\t\t<img src=\"\" alt=\"\" class=\"activator\"/>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">more_vert</i></span>\r\n\t\t<p><a href=\"#\">This is a link</a></p>\r\n\t</div>\r\n\t<div class=\"card-reveal\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">close</i></span>\r\n\t\t<p>Here is some more information about this product that is only revealed once clicked on.</p>\r\n\t</div>\r\n</div>",
 		"description": "Card reveal small",
 		"scope": "text.html"
 	},
 	"mz-card:reveal-default": {
 		"prefix": "mz-card:reveal-default",
-		"body": "\r\n<div class=\"card\">\r\n\t<div class=\"card-image waves-effect waves-block waves-light\">\r\n\t\t<img src=\"\" alt=\"\" class=\"activator\"/>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">more_vert</i></span>\r\n\t\t<p><a href=\"#\">This is a link</a></p>\r\n\t</div>\r\n\t<div class=\"card-reveal\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">close</i></span>\r\n\t\t<p>Here is some more information about this product that is only revealed once clicked on.</p>\r\n\t</div>\r\n</div>\r\n",
+		"body": "<div class=\"card\">\r\n\t<div class=\"card-image waves-effect waves-block waves-light\">\r\n\t\t<img src=\"\" alt=\"\" class=\"activator\"/>\r\n\t</div>\r\n\t<div class=\"card-content\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">more_vert</i></span>\r\n\t\t<p><a href=\"#\">This is a link</a></p>\r\n\t</div>\r\n\t<div class=\"card-reveal\">\r\n\t\t<span class=\"card-title activator\">Card Title<i class=\"material-icons right\">close</i></span>\r\n\t\t<p>Here is some more information about this product that is only revealed once clicked on.</p>\r\n\t</div>\r\n</div>",
 		"description": "Card reveal default",
 		"scope": "text.html"
 	},
 	"mz-chips:contact": {
 		"prefix": "mz-chips:contact",
-		"body": "\r\n<div class=\"chip\">\r\n\t<img src=\"\" alt=\"\"/>\r\n\tyour name\r\n</div>\r\n",
+		"body": "<div class=\"chip\">\r\n\t<img src=\"\" alt=\"\"/>\r\n\tyour name\r\n</div>",
 		"description": "Chip contact",
 		"scope": "text.html"
 	},
 	"mz-chips:tag-close": {
 		"prefix": "mz-chips:tag-close",
-		"body": "\r\n<div class=\"chip\">\r\n\tTag\r\n\t<i class=\"material-icons\">close</i>\r\n</div>\r\n",
+		"body": "<div class=\"chip\">\r\n\tTag\r\n\t<i class=\"material-icons\">close</i>\r\n</div>",
 		"description": "Chip tag with icon close",
 		"scope": "text.html"
 	},
 	"mz-chips:tag": {
 		"prefix": "mz-chips:tag",
-		"body": "\r\n<div class=\"chip\">\r\n\tTag\r\n</div>\r\n",
+		"body": "<div class=\"chip\">\r\n\tTag\r\n</div>",
 		"description": "Chip tag",
 		"scope": "text.html"
 	},
 	"mz-collections:avatar": {
 		"prefix": "mz-collections:avatar",
-		"body": "\r\n<ul class=\"collection\">\r\n\t<li class=\"collection-item avatar\">\r\n\t\t<img src=\"\" alt=\"\" class=\"circle\">\r\n\t\t<span class=\"title\">Title</span>\r\n\t\t<p>First Line <br>\r\n\t\t\tSecond Line\r\n\t\t</p>\r\n\t\t<a href=\"#!\" class=\"secondary-content\"><i class=\"material-icons\">grade</i></a>\r\n\t</li>\r\n\t<li class=\"collection-item avatar\">\r\n \t\t<i class=\"material-icons circle\">folder</i>\r\n\t\t<span class=\"title\">Title</span>\r\n\t\t<p>First Line <br>\r\n\t\t\tSecond Line\r\n\t\t</p>\r\n\t\t<a href=\"#!\" class=\"secondary-content\"><i class=\"material-icons\">grade</i></a>\r\n\t</li>\r\n</ul>\r\n",
+		"body": "<ul class=\"collection\">\r\n\t<li class=\"collection-item avatar\">\r\n\t\t<img src=\"\" alt=\"\" class=\"circle\">\r\n\t\t<span class=\"title\">Title</span>\r\n\t\t<p>First Line <br>\r\n\t\t\tSecond Line\r\n\t\t</p>\r\n\t\t<a href=\"#!\" class=\"secondary-content\"><i class=\"material-icons\">grade</i></a>\r\n\t</li>\r\n\t<li class=\"collection-item avatar\">\r\n \t\t<i class=\"material-icons circle\">folder</i>\r\n\t\t<span class=\"title\">Title</span>\r\n\t\t<p>First Line <br>\r\n\t\t\tSecond Line\r\n\t\t</p>\r\n\t\t<a href=\"#!\" class=\"secondary-content\"><i class=\"material-icons\">grade</i></a>\r\n\t</li>\r\n</ul>",
 		"description": "Avatar collection",
 		"scope": "text.html"
 	},
 	"mz-collections:basic": {
 		"prefix": "mz-collections:basic",
-		"body": "\r\n<ul class=\"collection\">\r\n\t<li class=\"collection-item\">Alvin</li>\r\n\t<li class=\"collection-item\">Alvin</li>\r\n\t<li class=\"collection-item\">Alvin</li>\r\n</ul>\r\n",
+		"body": "<ul class=\"collection\">\r\n\t<li class=\"collection-item\">Alvin</li>\r\n\t<li class=\"collection-item\">Alvin</li>\r\n\t<li class=\"collection-item\">Alvin</li>\r\n</ul>",
 		"description": "Basic collection",
 		"scope": "text.html"
 	},
 	"mz-collections:dismissable-content": {
 		"prefix": "mz-collections:dismissable-content",
-		"body": "\r\n<ul class=\"collection\">\r\n\t<li class=\"collection-item dismissable\"><div>Alvin<a href=\"#!\" class=\"secondary-content\"><i class=\"material-icons\">send</i></a></div></li>\r\n\t<li class=\"collection-item dismissable\"><div>Alvin<a href=\"#!\" class=\"secondary-content\"><i class=\"material-icons\">send</i></a></div></li>\r\n\t<li class=\"collection-item dismissable\"><div>Alvin<a href=\"#!\" class=\"secondary-content\"><i class=\"material-icons\">send</i></a></div></li>\r\n\t<li class=\"collection-item dismissable\"><div>Alvin<a href=\"#!\" class=\"secondary-content\"><i class=\"material-icons\">send</i></a></div></li>\r\n</ul>\r\n",
+		"body": "<ul class=\"collection\">\r\n\t<li class=\"collection-item dismissable\"><div>Alvin<a href=\"#!\" class=\"secondary-content\"><i class=\"material-icons\">send</i></a></div></li>\r\n\t<li class=\"collection-item dismissable\"><div>Alvin<a href=\"#!\" class=\"secondary-content\"><i class=\"material-icons\">send</i></a></div></li>\r\n\t<li class=\"collection-item dismissable\"><div>Alvin<a href=\"#!\" class=\"secondary-content\"><i class=\"material-icons\">send</i></a></div></li>\r\n\t<li class=\"collection-item dismissable\"><div>Alvin<a href=\"#!\" class=\"secondary-content\"><i class=\"material-icons\">send</i></a></div></li>\r\n</ul>",
 		"description": "Dismissable content collection",
 		"scope": "text.html"
 	},
 	"mz-collections:headers": {
 		"prefix": "mz-collections:headers",
-		"body": "\r\n<ul class=\"collection with-header\">\r\n\t<li class=\"collection-header\"><h4>First Names</h4></li>\r\n\t<li class=\"collection-item\">Alvin</li>\r\n\t<li class=\"collection-item\">Alvin</li>\r\n\t<li class=\"collection-item\">Alvin</li>\r\n</ul>\r\n",
+		"body": "<ul class=\"collection with-header\">\r\n\t<li class=\"collection-header\"><h4>First Names</h4></li>\r\n\t<li class=\"collection-item\">Alvin</li>\r\n\t<li class=\"collection-item\">Alvin</li>\r\n\t<li class=\"collection-item\">Alvin</li>\r\n</ul>",
 		"description": "Headers collection",
 		"scope": "text.html"
 	},
 	"mz-collections:link-active": {
 		"prefix": "mz-collections:link-active",
-		"body": "\r\n<div class=\"collection\">\r\n\t<a href=\"#\" class=\"collection-item active\">Alvin</a>\r\n\t<a href=\"#\" class=\"collection-item\">Alvin</a>\r\n\t<a href=\"#\" class=\"collection-item\">Alvin</a>\r\n</div>\r\n",
+		"body": "<div class=\"collection\">\r\n\t<a href=\"#\" class=\"collection-item active\">Alvin</a>\r\n\t<a href=\"#\" class=\"collection-item\">Alvin</a>\r\n\t<a href=\"#\" class=\"collection-item\">Alvin</a>\r\n</div>",
 		"description": "Link active collection",
 		"scope": "text.html"
 	},
 	"mz-collections:link": {
 		"prefix": "mz-collections:link",
-		"body": "\r\n<div class=\"collection\">\r\n\t<a href=\"#\" class=\"collection-item\">Alvin</a>\r\n\t<a href=\"#\" class=\"collection-item\">Alvin</a>\r\n\t<a href=\"#\" class=\"collection-item\">Alvin</a>\r\n</div>\r\n",
+		"body": "<div class=\"collection\">\r\n\t<a href=\"#\" class=\"collection-item\">Alvin</a>\r\n\t<a href=\"#\" class=\"collection-item\">Alvin</a>\r\n\t<a href=\"#\" class=\"collection-item\">Alvin</a>\r\n</div>",
 		"description": "Link collection",
 		"scope": "text.html"
 	},
 	"mz-collections:secondary-content": {
 		"prefix": "mz-collections:secondary-content",
-		"body": "\r\n<ul class=\"collection with-header\">\r\n\t<li class=\"collection-header\"><h4>First Names</h4></li>\r\n\t<li class=\"collection-item\"><div>Alvin<a href=\"#!\" class=\"secondary-content\"><i class=\"material-icons\">send</i></a></div></li>\r\n\t<li class=\"collection-item\"><div>Alvin<a href=\"#!\" class=\"secondary-content\"><i class=\"material-icons\">send</i></a></div></li>\r\n\t<li class=\"collection-item\"><div>Alvin<a href=\"#!\" class=\"secondary-content\"><i class=\"material-icons\">send</i></a></div></li>\r\n\t<li class=\"collection-item\"><div>Alvin<a href=\"#!\" class=\"secondary-content\"><i class=\"material-icons\">send</i></a></div></li>\r\n</ul>\r\n",
+		"body": "<ul class=\"collection with-header\">\r\n\t<li class=\"collection-header\"><h4>First Names</h4></li>\r\n\t<li class=\"collection-item\"><div>Alvin<a href=\"#!\" class=\"secondary-content\"><i class=\"material-icons\">send</i></a></div></li>\r\n\t<li class=\"collection-item\"><div>Alvin<a href=\"#!\" class=\"secondary-content\"><i class=\"material-icons\">send</i></a></div></li>\r\n\t<li class=\"collection-item\"><div>Alvin<a href=\"#!\" class=\"secondary-content\"><i class=\"material-icons\">send</i></a></div></li>\r\n\t<li class=\"collection-item\"><div>Alvin<a href=\"#!\" class=\"secondary-content\"><i class=\"material-icons\">send</i></a></div></li>\r\n</ul>",
 		"description": "Secondary content collection",
 		"scope": "text.html"
 	},
 	"mz-footer:default": {
 		"prefix": "mz-footer:default",
-		"body": "\r\n<footer class=\"page-footer\">\r\n\t<div class=\"container\">\r\n\t\t<div class=\"row\">\r\n\t\t\t<div class=\"col s12 m8 l6\">\r\n\t\t\t\t<h5 class=\"white-text\">First Footer Content</h5>\r\n\t\t\t\t<p class=\"grey-text text-lighten-4\">You can use rows and columns here to organize your footer content.</p>\r\n\t\t\t</div>\r\n\t\t\t<div class=\"col s12 m4 l6\">\r\n\t\t\t\t<h5 class=\"white-text\">Second Footer Content</h5>\r\n\t\t\t\t<p class=\"grey-text text-lighten-4\">You can use rows and columns here to organize your footer content.</p>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n\t<div class=\"footer-copyright\">\r\n\t\t<div class=\"container\">\r\n\t\t\t© 2016 Copyright Text\r\n\t\t\t<a class=\"grey-text text-lighten-4 right\" href=\"#!\">More Links</a>\r\n\t\t</div>\r\n\t</div>\r\n</footer>\r\n",
+		"body": "<footer class=\"page-footer\">\r\n\t<div class=\"container\">\r\n\t\t<div class=\"row\">\r\n\t\t\t<div class=\"col s12 m8 l6\">\r\n\t\t\t\t<h5 class=\"white-text\">First Footer Content</h5>\r\n\t\t\t\t<p class=\"grey-text text-lighten-4\">You can use rows and columns here to organize your footer content.</p>\r\n\t\t\t</div>\r\n\t\t\t<div class=\"col s12 m4 l6\">\r\n\t\t\t\t<h5 class=\"white-text\">Second Footer Content</h5>\r\n\t\t\t\t<p class=\"grey-text text-lighten-4\">You can use rows and columns here to organize your footer content.</p>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n\t<div class=\"footer-copyright\">\r\n\t\t<div class=\"container\">\r\n\t\t\t© 2016 Copyright Text\r\n\t\t\t<a class=\"grey-text text-lighten-4 right\" href=\"#!\">More Links</a>\r\n\t\t</div>\r\n\t</div>\r\n</footer>",
 		"description": "Footer default",
 		"scope": "text.html"
 	},
 	"mz-forms:contac": {
 		"prefix": "mz-forms:contac",
-		"body": "\r\n<form action=\"\">\r\n  <div class=\"input-field col s12 l6\">\r\n    <input type=\"text\" id=\"first_name\" class=\"validate\">\r\n    <label for=\"first_name\">First Name</label>\r\n  </div>\r\n  <div class=\"input-field col s12 l6\">\r\n    <input type=\"text\" id=\"last_name\" class=\"validate\">\r\n    <label for=\"last_name\">Last Name</label>\r\n  </div>\r\n  <div class=\"input-field col s12\">\r\n    <input type=\"email\" id=\"email\" class=\"validate\">\r\n    <label for=\"email\" data-error=\"wrong\" data-success=\"right\">Email</label>\r\n  </div>\r\n  <div class=\"input-field col s12\">\r\n    <textarea id=\"textarea1\" class=\"materialize-textarea\"></textarea>\r\n    <label for=\"textarea1\">Textarea</label>\r\n  </div>\r\n</form>\r\n",
+		"body": "<form action=\"\">\r\n  <div class=\"input-field col s12 l6\">\r\n    <input type=\"text\" id=\"first_name\" class=\"validate\">\r\n    <label for=\"first_name\">First Name</label>\r\n  </div>\r\n  <div class=\"input-field col s12 l6\">\r\n    <input type=\"text\" id=\"last_name\" class=\"validate\">\r\n    <label for=\"last_name\">Last Name</label>\r\n  </div>\r\n  <div class=\"input-field col s12\">\r\n    <input type=\"email\" id=\"email\" class=\"validate\">\r\n    <label for=\"email\" data-error=\"wrong\" data-success=\"right\">Email</label>\r\n  </div>\r\n  <div class=\"input-field col s12\">\r\n    <textarea id=\"textarea1\" class=\"materialize-textarea\"></textarea>\r\n    <label for=\"textarea1\">Textarea</label>\r\n  </div>\r\n</form>",
 		"description": "Contac form",
 		"scope": "text.html"
 	},
 	"mz-icons:default": {
 		"prefix": "mz-icons:default",
-		"body": "\r\n<i class=\"material-icons\">add</i>\r\n",
+		"body": "<i class=\"material-icons\">add</i>",
 		"description": "Default icon",
 		"scope": "text.html"
 	},
 	"mz-icons:lg-icon": {
 		"prefix": "mz-icons:lg-icon",
-		"body": "\r\n<i class=\"material-icons large\">add</i>\r\n",
+		"body": "<i class=\"material-icons large\">add</i>",
 		"description": "Large icon",
 		"scope": "text.html"
 	},
 	"mz-icons:md-icon": {
 		"prefix": "mz-icons:md-icon",
-		"body": "\r\n<i class=\"material-icons medium\">add</i>\r\n",
+		"body": "<i class=\"material-icons medium\">add</i>",
 		"description": "Medium icon",
 		"scope": "text.html"
 	},
 	"mz-icons:sm-icon": {
 		"prefix": "mz-icons:sm-icon",
-		"body": "\r\n<i class=\"material-icons small\">add</i>\r\n",
+		"body": "<i class=\"material-icons small\">add</i>",
 		"description": "Small icon",
 		"scope": "text.html"
 	},
 	"mz-icons:tn-icon": {
 		"prefix": "mz-icons:tn-icon",
-		"body": "\r\n<i class=\"material-icons tiny\">add</i>\r\n",
+		"body": "<i class=\"material-icons tiny\">add</i>",
 		"description": "Tiny icon",
 		"scope": "text.html"
 	},
 	"mz-navbar:full-width-fixed": {
 		"prefix": "mz-navbar:full-width-fixed",
-		"body": "\r\n<div class=\"navbar-fixed\">\r\n  <nav>\r\n    <div class=\"nav-wrapper\">\r\n      <a href=\"#\" class=\"brand-logo\">LOGO</a>\r\n      <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse\"><i class=\"material-icons\">menu</i></a>\r\n      <ul class=\"right hide-on-med-and-down\">\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <li><a href=\"#\">item4</a></li>\r\n      </ul>\r\n      <ul class=\"side-nav\" id=\"mobile-menu\">\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <li><a href=\"#\">item4</a></li>\r\n      </ul>\r\n    </div>\r\n  </nav>\r\n</div>\r\n",
+		"body": "<div class=\"navbar-fixed\">\r\n  <nav>\r\n    <div class=\"nav-wrapper\">\r\n      <a href=\"#\" class=\"brand-logo\">LOGO</a>\r\n      <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse\"><i class=\"material-icons\">menu</i></a>\r\n      <ul class=\"right hide-on-med-and-down\">\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <li><a href=\"#\">item4</a></li>\r\n      </ul>\r\n      <ul class=\"side-nav\" id=\"mobile-menu\">\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <li><a href=\"#\">item4</a></li>\r\n      </ul>\r\n    </div>\r\n  </nav>\r\n</div>",
 		"description": "Menu fixed full width",
 		"scope": "text.html"
 	},
 	"mz-navbar:full-width": {
 		"prefix": "mz-navbar:full-width",
-		"body": "\r\n<nav>\r\n  <div class=\"nav-wrapper\">\r\n    <a href=\"#\" class=\"brand-logo\">LOGO</a>\r\n    <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse\"><i class=\"material-icons\">menu</i></a>\r\n    <ul class=\"right hide-on-med-and-down\">\r\n      <li><a href=\"#\">item1</a></li>\r\n      <li><a href=\"#\">item2</a></li>\r\n      <li><a href=\"#\">item3</a></li>\r\n      <li><a href=\"#\">item4</a></li>\r\n    </ul>\r\n    <ul class=\"side-nav\" id=\"mobile-menu\">\r\n      <li><a href=\"#\">item1</a></li>\r\n      <li><a href=\"#\">item2</a></li>\r\n      <li><a href=\"#\">item3</a></li>\r\n      <li><a href=\"#\">item4</a></li>\r\n    </ul>\r\n  </div>\r\n</nav>\r\n",
+		"body": "<nav>\r\n  <div class=\"nav-wrapper\">\r\n    <a href=\"#\" class=\"brand-logo\">LOGO</a>\r\n    <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse\"><i class=\"material-icons\">menu</i></a>\r\n    <ul class=\"right hide-on-med-and-down\">\r\n      <li><a href=\"#\">item1</a></li>\r\n      <li><a href=\"#\">item2</a></li>\r\n      <li><a href=\"#\">item3</a></li>\r\n      <li><a href=\"#\">item4</a></li>\r\n    </ul>\r\n    <ul class=\"side-nav\" id=\"mobile-menu\">\r\n      <li><a href=\"#\">item1</a></li>\r\n      <li><a href=\"#\">item2</a></li>\r\n      <li><a href=\"#\">item3</a></li>\r\n      <li><a href=\"#\">item4</a></li>\r\n    </ul>\r\n  </div>\r\n</nav>",
 		"description": "Menu full width",
 		"scope": "text.html"
 	},
 	"mz-navbar:width-centered-fixed": {
 		"prefix": "mz-navbar:width-centered-fixed",
-		"body": "\r\n<div class=\"navbar-fixed\">\r\n  <nav>\r\n    <div class=\"nav-wrapper\">\r\n      <div class=\"container\">\r\n        <a href=\"#\" class=\"brand-logo\">LOGO</a>\r\n        <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse\"><i class=\"material-icons\">menu</i></a>\r\n        <ul class=\"right hide-on-med-and-down\">\r\n          <li><a href=\"#\">item1</a></li>\r\n          <li><a href=\"#\">item2</a></li>\r\n          <li><a href=\"#\">item3</a></li>\r\n          <li><a href=\"#\">item4</a></li>\r\n        </ul>\r\n        <ul class=\"side-nav\" id=\"mobile-menu\">\r\n          <li><a href=\"#\">item1</a></li>\r\n          <li><a href=\"#\">item2</a></li>\r\n          <li><a href=\"#\">item3</a></li>\r\n          <li><a href=\"#\">item4</a></li>\r\n        </ul>\r\n      </div>\r\n    </div>\r\n  </nav>\r\n</div>\r\n",
+		"body": "<div class=\"navbar-fixed\">\r\n  <nav>\r\n    <div class=\"nav-wrapper\">\r\n      <div class=\"container\">\r\n        <a href=\"#\" class=\"brand-logo\">LOGO</a>\r\n        <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse\"><i class=\"material-icons\">menu</i></a>\r\n        <ul class=\"right hide-on-med-and-down\">\r\n          <li><a href=\"#\">item1</a></li>\r\n          <li><a href=\"#\">item2</a></li>\r\n          <li><a href=\"#\">item3</a></li>\r\n          <li><a href=\"#\">item4</a></li>\r\n        </ul>\r\n        <ul class=\"side-nav\" id=\"mobile-menu\">\r\n          <li><a href=\"#\">item1</a></li>\r\n          <li><a href=\"#\">item2</a></li>\r\n          <li><a href=\"#\">item3</a></li>\r\n          <li><a href=\"#\">item4</a></li>\r\n        </ul>\r\n      </div>\r\n    </div>\r\n  </nav>\r\n</div>",
 		"description": "Menu fixed width centered",
 		"scope": "text.html"
 	},
 	"mz-navbar:width-centered": {
 		"prefix": "mz-navbar:width-centered",
-		"body": "\r\n<nav>\r\n  <div class=\"nav-wrapper\">\r\n    <div class=\"container\">\r\n      <a href=\"#\" class=\"brand-logo\">LOGO</a>\r\n      <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse\"><i class=\"material-icons\">menu</i></a>\r\n      <ul class=\"right hide-on-med-and-down\">\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <li><a href=\"#\">item4</a></li>\r\n      </ul>\r\n      <ul class=\"side-nav\" id=\"mobile-menu\">\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <li><a href=\"#\">item4</a></li>\r\n      </ul>\r\n    </div>\r\n  </div>\r\n</nav>\r\n",
+		"body": "<nav>\r\n  <div class=\"nav-wrapper\">\r\n    <div class=\"container\">\r\n      <a href=\"#\" class=\"brand-logo\">LOGO</a>\r\n      <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse\"><i class=\"material-icons\">menu</i></a>\r\n      <ul class=\"right hide-on-med-and-down\">\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <li><a href=\"#\">item4</a></li>\r\n      </ul>\r\n      <ul class=\"side-nav\" id=\"mobile-menu\">\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <li><a href=\"#\">item4</a></li>\r\n      </ul>\r\n    </div>\r\n  </div>\r\n</nav>",
 		"description": "Menu width centered",
 		"scope": "text.html"
 	},
 	"mz-navbar:with-tabs": {
 		"prefix": "mz-navbar:with-tabs",
-		"body": "\r\n<nav class=\"nav-extended\">\r\n  <div class=\"nav-wrapper\">\r\n    <div class=\"container\">\r\n      <a href=\"#\" class=\"brand-logo\">LOGO</a>\r\n      <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse\"><i class=\"material-icons\">menu</i></a>\r\n      <ul class=\"right hide-on-med-and-down\">\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <li><a href=\"#\">item4</a></li>\r\n      </ul>\r\n      <ul class=\"side-nav\" id=\"mobile-menu\">\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <li><a href=\"#\">item4</a></li>\r\n      </ul>\r\n      <!-- tabs items -->\r\n      <ul class=\"tabs tabs-transparent\">\r\n        <li class=\"tab\"><a href=\"#test1\">Test 1</a></li>\r\n        <li class=\"tab\"><a class=\"active\" href=\"#test2\">Test 2</a></li>\r\n        <li class=\"tab disabled\"><a href=\"#test3\">Disabled Tab</a></li>\r\n        <li class=\"tab\"><a href=\"#test4\">Test 4</a></li>\r\n      </ul>\r\n    </div>\r\n  </div>\r\n</nav>\r\n<!-- tabs content -->\r\n<div id=\"test1\" class=\"col s12\">Test 1</div>\r\n<div id=\"test2\" class=\"col s12\">Test 2</div>\r\n<div id=\"test3\" class=\"col s12\">Test 3</div>\r\n<div id=\"test4\" class=\"col s12\">Test 4</div>\r\n",
+		"body": "<nav class=\"nav-extended\">\r\n  <div class=\"nav-wrapper\">\r\n    <div class=\"container\">\r\n      <a href=\"#\" class=\"brand-logo\">LOGO</a>\r\n      <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse\"><i class=\"material-icons\">menu</i></a>\r\n      <ul class=\"right hide-on-med-and-down\">\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <li><a href=\"#\">item4</a></li>\r\n      </ul>\r\n      <ul class=\"side-nav\" id=\"mobile-menu\">\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <li><a href=\"#\">item4</a></li>\r\n      </ul>\r\n      <!-- tabs items -->\r\n      <ul class=\"tabs tabs-transparent\">\r\n        <li class=\"tab\"><a href=\"#test1\">Test 1</a></li>\r\n        <li class=\"tab\"><a class=\"active\" href=\"#test2\">Test 2</a></li>\r\n        <li class=\"tab disabled\"><a href=\"#test3\">Disabled Tab</a></li>\r\n        <li class=\"tab\"><a href=\"#test4\">Test 4</a></li>\r\n      </ul>\r\n    </div>\r\n  </div>\r\n</nav>\r\n<!-- tabs content -->\r\n<div id=\"test1\" class=\"col s12\">Test 1</div>\r\n<div id=\"test2\" class=\"col s12\">Test 2</div>\r\n<div id=\"test3\" class=\"col s12\">Test 3</div>\r\n<div id=\"test4\" class=\"col s12\">Test 4</div>",
 		"description": "Menu with tabs",
 		"scope": "text.html"
 	},
 	"mz-pagination:default": {
 		"prefix": "mz-pagination:default",
-		"body": "\r\n<ul class=\"pagination\">\r\n  <li class=\"disabled\"><a href=\"#!\"><i class=\"material-icons\">chevron_left</i></a></li>\r\n  <li class=\"active\"><a href=\"#!\">1</a></li>\r\n  <li class=\"waves-effect\"><a href=\"#!\">2</a></li>\r\n  <li class=\"waves-effect\"><a href=\"#!\">3</a></li>\r\n  <li class=\"waves-effect\"><a href=\"#!\">4</a></li>\r\n  <li class=\"waves-effect\"><a href=\"#!\">5</a></li>\r\n  <li class=\"waves-effect\"><a href=\"#!\"><i class=\"material-icons\">chevron_right</i></a></li>\r\n</ul>\r\n",
+		"body": "<ul class=\"pagination\">\r\n  <li class=\"disabled\"><a href=\"#!\"><i class=\"material-icons\">chevron_left</i></a></li>\r\n  <li class=\"active\"><a href=\"#!\">1</a></li>\r\n  <li class=\"waves-effect\"><a href=\"#!\">2</a></li>\r\n  <li class=\"waves-effect\"><a href=\"#!\">3</a></li>\r\n  <li class=\"waves-effect\"><a href=\"#!\">4</a></li>\r\n  <li class=\"waves-effect\"><a href=\"#!\">5</a></li>\r\n  <li class=\"waves-effect\"><a href=\"#!\"><i class=\"material-icons\">chevron_right</i></a></li>\r\n</ul>",
 		"description": "Pagination default",
 		"scope": "text.html"
 	},
 	"mz-preloader:circular-flashing-colors-lg": {
 		"prefix": "mz-preloader:circular-flashing-colors-lg",
-		"body": "\r\n<div class=\"preloader-wrapper big active\">\r\n  <!-- spinner-blue -->\r\n  <div class=\"spinner-layer spinner-blue\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n  <!-- spinner-red -->\r\n  <div class=\"spinner-layer spinner-red\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n  <!-- spinner-yellow -->\r\n  <div class=\"spinner-layer spinner-yellow\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n  <!-- spinner-greem -->\r\n  <div class=\"spinner-layer spinner-green\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n</div>\r\n",
+		"body": "<div class=\"preloader-wrapper big active\">\r\n  <!-- spinner-blue -->\r\n  <div class=\"spinner-layer spinner-blue\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n  <!-- spinner-red -->\r\n  <div class=\"spinner-layer spinner-red\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n  <!-- spinner-yellow -->\r\n  <div class=\"spinner-layer spinner-yellow\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n  <!-- spinner-greem -->\r\n  <div class=\"spinner-layer spinner-green\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n</div>",
 		"description": "Preloader circular flashing colors big",
 		"scope": "text.html"
 	},
 	"mz-preloader:circular-flashing-colors-default": {
 		"prefix": "mz-preloader:circular-flashing-colors-default",
-		"body": "\r\n<div class=\"preloader-wrapper active\">\r\n  <!-- spinner-blue -->\r\n  <div class=\"spinner-layer spinner-blue\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n  <!-- spinner-red -->\r\n  <div class=\"spinner-layer spinner-red\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n  <!-- spinner-yellow -->\r\n  <div class=\"spinner-layer spinner-yellow\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n  <!-- spinner-greem -->\r\n  <div class=\"spinner-layer spinner-green\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n</div>\r\n",
+		"body": "<div class=\"preloader-wrapper active\">\r\n  <!-- spinner-blue -->\r\n  <div class=\"spinner-layer spinner-blue\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n  <!-- spinner-red -->\r\n  <div class=\"spinner-layer spinner-red\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n  <!-- spinner-yellow -->\r\n  <div class=\"spinner-layer spinner-yellow\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n  <!-- spinner-greem -->\r\n  <div class=\"spinner-layer spinner-green\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n</div>",
 		"description": "Preloader circular flashing colors default",
 		"scope": ""
 	},
 	"mz-preloader:circular-flashing-colors-sm": {
 		"prefix": "mz-preloader:circular-flashing-colors-sm",
-		"body": "\r\n<div class=\"preloader-wrapper small active\">\r\n  <!-- spinner-blue -->\r\n  <div class=\"spinner-layer spinner-blue\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n  <!-- spinner-red -->\r\n  <div class=\"spinner-layer spinner-red\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n  <!-- spinner-yellow -->\r\n  <div class=\"spinner-layer spinner-yellow\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n  <!-- spinner-greem -->\r\n  <div class=\"spinner-layer spinner-green\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n</div>\r\n",
+		"body": "<div class=\"preloader-wrapper small active\">\r\n  <!-- spinner-blue -->\r\n  <div class=\"spinner-layer spinner-blue\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n  <!-- spinner-red -->\r\n  <div class=\"spinner-layer spinner-red\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n  <!-- spinner-yellow -->\r\n  <div class=\"spinner-layer spinner-yellow\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n  <!-- spinner-greem -->\r\n  <div class=\"spinner-layer spinner-green\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n</div>",
 		"description": "Preloader circular flashing colors small",
 		"scope": "text.html"
 	},
 	"mz-preloader:color-circular-lg": {
 		"prefix": "mz-preloader:color-circular-lg",
-		"body": "\r\n<div class=\"preloader-wrapper big active\">\r\n  <div class=\"spinner-layer spinner-blue-only\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n</div>\r\n",
+		"body": "<div class=\"preloader-wrapper big active\">\r\n  <div class=\"spinner-layer spinner-blue-only\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n</div>",
 		"description": "Preloader color circular big",
 		"scope": "text.html"
 	},
 	"mz-preloader:color-circular-default": {
 		"prefix": "mz-preloader:color-circular-default",
-		"body": "\r\n<div class=\"preloader-wrapper active\">\r\n  <div class=\"spinner-layer spinner-blue-only\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n</div>\r\n",
+		"body": "<div class=\"preloader-wrapper active\">\r\n  <div class=\"spinner-layer spinner-blue-only\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n</div>",
 		"description": "Preloader color circular default",
 		"scope": "text.html"
 	},
 	"mz-preloader:color-circular-sm": {
 		"prefix": "mz-preloader:color-circular-sm",
-		"body": "\r\n<div class=\"preloader-wrapper small active\">\r\n  <div class=\"spinner-layer spinner-blue-only\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n</div>\r\n",
+		"body": "<div class=\"preloader-wrapper small active\">\r\n  <div class=\"spinner-layer spinner-blue-only\">\r\n    <div class=\"circle-clipper left\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"gap-patch\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n    <div class=\"circle-clipper right\">\r\n      <div class=\"circle\"></div>\r\n    </div>\r\n  </div>\r\n</div>",
 		"description": "Preloader color circular small",
 		"scope": "text.html"
 	},
 	"mz-preloader:linear-determinate": {
 		"prefix": "mz-preloader:linear-determinate",
-		"body": "\r\n<div class=\"progress indigo lighten-3\">\r\n  <div class=\"determinate indigo\" style=\"width: 70%\"></div>\r\n</div>\r\n",
+		"body": "<div class=\"progress indigo lighten-3\">\r\n  <div class=\"determinate indigo\" style=\"width: 70%\"></div>\r\n</div>",
 		"description": "Preloader linear determinate",
 		"scope": "text.html"
 	},
 	"mz-preloader:linear-indeterminate": {
 		"prefix": "mz-preloader:linear-indeterminate",
-		"body": "\r\n<div class=\"progress indigo lighten-3\">\r\n  <div class=\"indeterminate indigo\" style=\"width: 70%\"></div>\r\n</div>\r\n",
+		"body": "<div class=\"progress indigo lighten-3\">\r\n  <div class=\"indeterminate indigo\" style=\"width: 70%\"></div>\r\n</div>",
 		"description": "Preloader linear indeterminate",
 		"scope": "text.html"
 	},
 	"mz-mediacss:img-circular": {
 		"prefix": "mz-mediacss:img-circular",
-		"body": "\r\n<img src=\"\" alt=\"\" class=\"circle responsive-img\"/>\r\n",
+		"body": "<img src=\"\" alt=\"\" class=\"circle responsive-img\"/>",
 		"description": "Circular image",
 		"scope": "text.html"
 	},
 	"mz-mediacss:img-responsive": {
 		"prefix": "mz-mediacss:img-responsive",
-		"body": "\r\n<img src=\"${1:}\" alt=\"${2:}\" class=\"responsive-img\"/>\r\n",
+		"body": "<img src=\"${1:}\" alt=\"${2:}\" class=\"responsive-img\"/>",
 		"description": "Responsive image",
 		"scope": "text.html"
 	},
 	"mz-mediacss:video-embeds": {
 		"prefix": "mz-mediacss:video-embeds",
-		"body": "\r\n<div class=\"video-container\">\r\n\t<iframe width=\"853\" height=\"480\" src=\"//www.youtube.com/embed/Q8TXgCzxEnw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>\r\n</div>\r\n",
+		"body": "<div class=\"video-container\">\r\n\t<iframe width=\"853\" height=\"480\" src=\"//www.youtube.com/embed/Q8TXgCzxEnw?rel=0\" frameborder=\"0\" allowfullscreen></iframe>\r\n</div>",
 		"description": "Embeds video",
 		"scope": "text.html"
 	},
 	"mz-mediacss:video-responsive": {
 		"prefix": "mz-mediacss:video-responsive",
-		"body": "\r\n<video class=\"responsive-video\" controls>\r\n\t<source src=\"\" type=\"\"/>\r\n</video>\r\n",
+		"body": "<video class=\"responsive-video\" controls>\r\n\t<source src=\"\" type=\"\"/>\r\n</video>",
 		"description": "Responsive video",
 		"scope": "text.html"
 	},
 	"mz-table:bordered": {
 		"prefix": "mz-table:bordered",
-		"body": "\r\n<table class=\"bordered\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th data-field=\"id\">Name</th>\r\n\t\t\t<th data-field=\"name\">Item Name</th>\r\n\t\t\t<th data-field=\"price\">Item Price</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Alvin</td>\r\n\t\t\t<td>Eclair</td>\r\n\t\t\t<td>$0.87</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Alan</td>\r\n\t\t\t<td>Jellybean</td>\r\n\t\t\t<td>$3.76</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Jonathan</td>\r\n\t\t\t<td>Lollipop</td>\r\n\t\t\t<td>$7.00</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n",
+		"body": "<table class=\"bordered\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th data-field=\"id\">Name</th>\r\n\t\t\t<th data-field=\"name\">Item Name</th>\r\n\t\t\t<th data-field=\"price\">Item Price</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Alvin</td>\r\n\t\t\t<td>Eclair</td>\r\n\t\t\t<td>$0.87</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Alan</td>\r\n\t\t\t<td>Jellybean</td>\r\n\t\t\t<td>$3.76</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Jonathan</td>\r\n\t\t\t<td>Lollipop</td>\r\n\t\t\t<td>$7.00</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
 		"description": "Bordered table",
 		"scope": "text.html"
 	},
 	"mz-table:centered": {
 		"prefix": "mz-table:centered",
-		"body": "\r\n<table class=\"centered\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th data-field=\"id\">Name</th>\r\n\t\t\t<th data-field=\"name\">Item Name</th>\r\n\t\t\t<th data-field=\"price\">Item Price</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Alvin</td>\r\n\t\t\t<td>Eclair</td>\r\n\t\t\t<td>$0.87</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Alan</td>\r\n\t\t\t<td>Jellybean</td>\r\n\t\t\t<td>$3.76</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Jonathan</td>\r\n\t\t\t<td>Lollipop</td>\r\n\t\t\t<td>$7.00</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n",
+		"body": "<table class=\"centered\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th data-field=\"id\">Name</th>\r\n\t\t\t<th data-field=\"name\">Item Name</th>\r\n\t\t\t<th data-field=\"price\">Item Price</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Alvin</td>\r\n\t\t\t<td>Eclair</td>\r\n\t\t\t<td>$0.87</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Alan</td>\r\n\t\t\t<td>Jellybean</td>\r\n\t\t\t<td>$3.76</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Jonathan</td>\r\n\t\t\t<td>Lollipop</td>\r\n\t\t\t<td>$7.00</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
 		"description": "Centered table",
 		"scope": "text.html"
 	},
 	"mz-table:default": {
 		"prefix": "mz-table:default",
-		"body": "\r\n<table>\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th data-field=\"id\">Name</th>\r\n\t\t\t<th data-field=\"name\">Item Name</th>\r\n\t\t\t<th data-field=\"price\">Item Price</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Alvin</td>\r\n\t\t\t<td>Eclair</td>\r\n\t\t\t<td>$0.87</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Alan</td>\r\n\t\t\t<td>Jellybean</td>\r\n\t\t\t<td>$3.76</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Jonathan</td>\r\n\t\t\t<td>Lollipop</td>\r\n\t\t\t<td>$7.00</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n",
+		"body": "<table>\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th data-field=\"id\">Name</th>\r\n\t\t\t<th data-field=\"name\">Item Name</th>\r\n\t\t\t<th data-field=\"price\">Item Price</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Alvin</td>\r\n\t\t\t<td>Eclair</td>\r\n\t\t\t<td>$0.87</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Alan</td>\r\n\t\t\t<td>Jellybean</td>\r\n\t\t\t<td>$3.76</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Jonathan</td>\r\n\t\t\t<td>Lollipop</td>\r\n\t\t\t<td>$7.00</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
 		"description": "Default table",
 		"scope": "text.html"
 	},
 	"mz-table:highlight": {
 		"prefix": "mz-table:highlight",
-		"body": "\r\n<table class=\"highlight\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th data-field=\"id\">Name</th>\r\n\t\t\t<th data-field=\"name\">Item Name</th>\r\n\t\t\t<th data-field=\"price\">Item Price</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Alvin</td>\r\n\t\t\t<td>Eclair</td>\r\n\t\t\t<td>$0.87</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Alan</td>\r\n\t\t\t<td>Jellybean</td>\r\n\t\t\t<td>$3.76</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Jonathan</td>\r\n\t\t\t<td>Lollipop</td>\r\n\t\t\t<td>$7.00</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n",
+		"body": "<table class=\"highlight\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th data-field=\"id\">Name</th>\r\n\t\t\t<th data-field=\"name\">Item Name</th>\r\n\t\t\t<th data-field=\"price\">Item Price</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Alvin</td>\r\n\t\t\t<td>Eclair</td>\r\n\t\t\t<td>$0.87</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Alan</td>\r\n\t\t\t<td>Jellybean</td>\r\n\t\t\t<td>$3.76</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Jonathan</td>\r\n\t\t\t<td>Lollipop</td>\r\n\t\t\t<td>$7.00</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
 		"description": "Highlight table",
 		"scope": "text.html"
 	},
 	"mz-table:responsive": {
 		"prefix": "mz-table:responsive",
-		"body": "\r\n<table class=\"responsive-table\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th data-field=\"id\">Name</th>\r\n\t\t\t<th data-field=\"name\">Item Name</th>\r\n\t\t\t<th data-field=\"price\">Item Price</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Alvin</td>\r\n\t\t\t<td>Eclair</td>\r\n\t\t\t<td>$0.87</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Alan</td>\r\n\t\t\t<td>Jellybean</td>\r\n\t\t\t<td>$3.76</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Jonathan</td>\r\n\t\t\t<td>Lollipop</td>\r\n\t\t\t<td>$7.00</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n",
+		"body": "<table class=\"responsive-table\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th data-field=\"id\">Name</th>\r\n\t\t\t<th data-field=\"name\">Item Name</th>\r\n\t\t\t<th data-field=\"price\">Item Price</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Alvin</td>\r\n\t\t\t<td>Eclair</td>\r\n\t\t\t<td>$0.87</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Alan</td>\r\n\t\t\t<td>Jellybean</td>\r\n\t\t\t<td>$3.76</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Jonathan</td>\r\n\t\t\t<td>Lollipop</td>\r\n\t\t\t<td>$7.00</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
 		"description": "Responsive table",
 		"scope": "text.html"
 	},
 	"mz-table:striped": {
 		"prefix": "mz-table:striped",
-		"body": "\r\n<table class=\"striped\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th data-field=\"id\">Name</th>\r\n\t\t\t<th data-field=\"name\">Item Name</th>\r\n\t\t\t<th data-field=\"price\">Item Price</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Alvin</td>\r\n\t\t\t<td>Eclair</td>\r\n\t\t\t<td>$0.87</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Alan</td>\r\n\t\t\t<td>Jellybean</td>\r\n\t\t\t<td>$3.76</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Jonathan</td>\r\n\t\t\t<td>Lollipop</td>\r\n\t\t\t<td>$7.00</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n",
+		"body": "<table class=\"striped\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th data-field=\"id\">Name</th>\r\n\t\t\t<th data-field=\"name\">Item Name</th>\r\n\t\t\t<th data-field=\"price\">Item Price</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Alvin</td>\r\n\t\t\t<td>Eclair</td>\r\n\t\t\t<td>$0.87</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Alan</td>\r\n\t\t\t<td>Jellybean</td>\r\n\t\t\t<td>$3.76</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Jonathan</td>\r\n\t\t\t<td>Lollipop</td>\r\n\t\t\t<td>$7.00</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
 		"description": "Striped table",
 		"scope": "text.html"
 	},
 	"mz-typography:blockquote": {
 		"prefix": "mz-typography:blockquote",
-		"body": "\r\n<blockquote>\r\n\t<p>This is an example quotation that uses the blockquote tag.</p>\r\n</blockquote>\r\n",
+		"body": "<blockquote>\r\n\t<p>This is an example quotation that uses the blockquote tag.</p>\r\n</blockquote>",
 		"description": "Blockquote",
 		"scope": "text.html"
 	},
 	"mz-typography:flow-text": {
 		"prefix": "mz-typography:flow-text",
-		"body": "\r\n<p class=\"flow-text\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>\r\n",
+		"body": "<p class=\"flow-text\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>",
 		"description": "Flow text",
 		"scope": "text.html"
 	},
 	"mz-carousel:default": {
 		"prefix": "mz-carousel:default",
-		"body": "\r\n<div class=\"carousel\">\r\n  <a class=\"carousel-item\" href=\"#one!\"><img src=\"http://lorempixel.com/250/250/nature/1\" alt=\"\"></a>\r\n  <a class=\"carousel-item\" href=\"#two!\"><img src=\"http://lorempixel.com/250/250/nature/2\" alt=\"\"></a>\r\n  <a class=\"carousel-item\" href=\"#three!\"><img src=\"http://lorempixel.com/250/250/nature/3\" alt=\"\"></a>\r\n  <a class=\"carousel-item\" href=\"#four!\"><img src=\"http://lorempixel.com/250/250/nature/4\" alt=\"\"></a>\r\n  <a class=\"carousel-item\" href=\"#five!\"><img src=\"http://lorempixel.com/250/250/nature/5\" alt=\"\"></a>\r\n</div>\r\n",
+		"body": "<div class=\"carousel\">\r\n  <a class=\"carousel-item\" href=\"#one!\"><img src=\"http://lorempixel.com/250/250/nature/1\" alt=\"\"></a>\r\n  <a class=\"carousel-item\" href=\"#two!\"><img src=\"http://lorempixel.com/250/250/nature/2\" alt=\"\"></a>\r\n  <a class=\"carousel-item\" href=\"#three!\"><img src=\"http://lorempixel.com/250/250/nature/3\" alt=\"\"></a>\r\n  <a class=\"carousel-item\" href=\"#four!\"><img src=\"http://lorempixel.com/250/250/nature/4\" alt=\"\"></a>\r\n  <a class=\"carousel-item\" href=\"#five!\"><img src=\"http://lorempixel.com/250/250/nature/5\" alt=\"\"></a>\r\n</div>",
 		"description": "Default carousel",
 		"scope": "text.html"
 	},
 	"mz-carousel:full-width": {
 		"prefix": "mz-carousel:full-width",
-		"body": "\r\n<div class=\"carousel carousel-slider\" style=\"height: 400px;\">\r\n  <a class=\"carousel-item\" href=\"#one!\"><img src=\"http://lorempixel.com/250/250/nature/1\" alt=\"\"></a>\r\n  <a class=\"carousel-item\" href=\"#two!\"><img src=\"http://lorempixel.com/250/250/nature/2\" alt=\"\"></a>\r\n  <a class=\"carousel-item\" href=\"#three!\"><img src=\"http://lorempixel.com/250/250/nature/3\" alt=\"\"></a>\r\n  <a class=\"carousel-item\" href=\"#four!\"><img src=\"http://lorempixel.com/250/250/nature/4\" alt=\"\"></a>\r\n  <a class=\"carousel-item\" href=\"#five!\"><img src=\"http://lorempixel.com/250/250/nature/5\" alt=\"\"></a>\r\n</div>\r\n",
+		"body": "<div class=\"carousel carousel-slider\" style=\"height: 400px;\">\r\n  <a class=\"carousel-item\" href=\"#one!\"><img src=\"http://lorempixel.com/250/250/nature/1\" alt=\"\"></a>\r\n  <a class=\"carousel-item\" href=\"#two!\"><img src=\"http://lorempixel.com/250/250/nature/2\" alt=\"\"></a>\r\n  <a class=\"carousel-item\" href=\"#three!\"><img src=\"http://lorempixel.com/250/250/nature/3\" alt=\"\"></a>\r\n  <a class=\"carousel-item\" href=\"#four!\"><img src=\"http://lorempixel.com/250/250/nature/4\" alt=\"\"></a>\r\n  <a class=\"carousel-item\" href=\"#five!\"><img src=\"http://lorempixel.com/250/250/nature/5\" alt=\"\"></a>\r\n</div>",
 		"description": "Carousel full width",
 		"scope": "text.html"
 	},
 	"mz-carousel:special-options": {
 		"prefix": "mz-carousel:special-options",
-		"body": "\r\n<div class=\"carousel carousel-slider center\" data-indicators=\"true\">\r\n  <div class=\"carousel-fixed-item center\">\r\n    <a class=\"btn waves-effect white grey-text darken-text-2\">button</a>\r\n  </div>\r\n  <div class=\"carousel-item red white-text\" href=\"#one!\">\r\n    <h2>First Panel</h2>\r\n    <p class=\"white-text\">This is your first panel</p>\r\n  </div>\r\n  <div class=\"carousel-item amber white-text\" href=\"#two!\">\r\n    <h2>Second Panel</h2>\r\n    <p class=\"white-text\">This is your second panel</p>\r\n  </div>\r\n  <div class=\"carousel-item green white-text\" href=\"#three!\">\r\n    <h2>Third Panel</h2>\r\n    <p class=\"white-text\">This is your third panel</p>\r\n  </div>\r\n  <div class=\"carousel-item blue white-text\" href=\"#four!\">\r\n    <h2>Fourth Panel</h2>\r\n    <p class=\"white-text\">This is your fourth panel</p>\r\n  </div>\r\n</div>\r\n",
+		"body": "<div class=\"carousel carousel-slider center\" data-indicators=\"true\">\r\n  <div class=\"carousel-fixed-item center\">\r\n    <a class=\"btn waves-effect white grey-text darken-text-2\">button</a>\r\n  </div>\r\n  <div class=\"carousel-item red white-text\" href=\"#one!\">\r\n    <h2>First Panel</h2>\r\n    <p class=\"white-text\">This is your first panel</p>\r\n  </div>\r\n  <div class=\"carousel-item amber white-text\" href=\"#two!\">\r\n    <h2>Second Panel</h2>\r\n    <p class=\"white-text\">This is your second panel</p>\r\n  </div>\r\n  <div class=\"carousel-item green white-text\" href=\"#three!\">\r\n    <h2>Third Panel</h2>\r\n    <p class=\"white-text\">This is your third panel</p>\r\n  </div>\r\n  <div class=\"carousel-item blue white-text\" href=\"#four!\">\r\n    <h2>Fourth Panel</h2>\r\n    <p class=\"white-text\">This is your fourth panel</p>\r\n  </div>\r\n</div>",
 		"description": "Special options carousel",
 		"scope": "text.html"
 	},
 	"mz-collapsible:accordion": {
 		"prefix": "mz-collapsible:accordion",
-		"body": "\r\n<ul class=\"collapsible\" data-collapsible=\"accordion\">\r\n  <li>\r\n    <div class=\"collapsible-header\"><i class=\"material-icons\">filter_drama</i>First</div>\r\n    <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\r\n  </li>\r\n  <li>\r\n    <div class=\"collapsible-header\"><i class=\"material-icons\">place</i>Second</div>\r\n    <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\r\n  </li>\r\n  <li>\r\n    <div class=\"collapsible-header\"><i class=\"material-icons\">whatshot</i>Third</div>\r\n    <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\r\n  </li>\r\n</ul>\r\n",
+		"body": "<ul class=\"collapsible\" data-collapsible=\"accordion\">\r\n  <li>\r\n    <div class=\"collapsible-header\"><i class=\"material-icons\">filter_drama</i>First</div>\r\n    <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\r\n  </li>\r\n  <li>\r\n    <div class=\"collapsible-header\"><i class=\"material-icons\">place</i>Second</div>\r\n    <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\r\n  </li>\r\n  <li>\r\n    <div class=\"collapsible-header\"><i class=\"material-icons\">whatshot</i>Third</div>\r\n    <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\r\n  </li>\r\n</ul>",
 		"description": "Collapsible accordion",
 		"scope": "text.html"
 	},
 	"mz-collapsible:expandable": {
 		"prefix": "mz-collapsible:expandable",
-		"body": "\r\n<ul class=\"collapsible\" data-collapsible=\"expandable\">\r\n  <li>\r\n    <div class=\"collapsible-header\"><i class=\"material-icons\">filter_drama</i>First</div>\r\n    <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\r\n  </li>\r\n  <li>\r\n    <div class=\"collapsible-header\"><i class=\"material-icons\">place</i>Second</div>\r\n    <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\r\n  </li>\r\n  <li>\r\n    <div class=\"collapsible-header\"><i class=\"material-icons\">whatshot</i>Third</div>\r\n    <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\r\n  </li>\r\n</ul>\r\n",
+		"body": "<ul class=\"collapsible\" data-collapsible=\"expandable\">\r\n  <li>\r\n    <div class=\"collapsible-header\"><i class=\"material-icons\">filter_drama</i>First</div>\r\n    <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\r\n  </li>\r\n  <li>\r\n    <div class=\"collapsible-header\"><i class=\"material-icons\">place</i>Second</div>\r\n    <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\r\n  </li>\r\n  <li>\r\n    <div class=\"collapsible-header\"><i class=\"material-icons\">whatshot</i>Third</div>\r\n    <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\r\n  </li>\r\n</ul>",
 		"description": "Collapsible expandable",
 		"scope": "text.html"
 	},
 	"mz-collapsible:popout": {
 		"prefix": "mz-collapsible:popout",
-		"body": "\r\n<ul class=\"collapsible popout\" data-collapsible=\"accordion\">\r\n  <li>\r\n    <div class=\"collapsible-header\"><i class=\"material-icons\">filter_drama</i>First</div>\r\n    <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\r\n  </li>\r\n  <li>\r\n    <div class=\"collapsible-header\"><i class=\"material-icons\">place</i>Second</div>\r\n    <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\r\n  </li>\r\n  <li>\r\n    <div class=\"collapsible-header\"><i class=\"material-icons\">whatshot</i>Third</div>\r\n    <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\r\n  </li>\r\n</ul>\r\n",
+		"body": "<ul class=\"collapsible popout\" data-collapsible=\"accordion\">\r\n  <li>\r\n    <div class=\"collapsible-header\"><i class=\"material-icons\">filter_drama</i>First</div>\r\n    <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\r\n  </li>\r\n  <li>\r\n    <div class=\"collapsible-header\"><i class=\"material-icons\">place</i>Second</div>\r\n    <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\r\n  </li>\r\n  <li>\r\n    <div class=\"collapsible-header\"><i class=\"material-icons\">whatshot</i>Third</div>\r\n    <div class=\"collapsible-body\"><p>Lorem ipsum dolor sit amet.</p></div>\r\n  </li>\r\n</ul>",
 		"description": "Collapsible popout",
 		"scope": "text.html"
 	},
 	"mz-dialogs:rounded-toast": {
 		"prefix": "mz-dialogs:rounded-toast",
-		"body": "\r\n<a class=\"btn\" onclick=\"Materialize.toast('I am a toast', 4000, 'rounded')\">Toast!</a>\r\n",
+		"body": "<a class=\"btn\" onclick=\"Materialize.toast('I am a toast', 4000, 'rounded')\">Toast!</a>",
 		"description": "Rounded toast",
 		"scope": "text.html"
 	},
 	"mz-dialogs:callback-toast": {
 		"prefix": "mz-dialogs:callback-toast",
-		"body": "\r\n<a class=\"btn\" onclick=\"Materialize.toast('I am a toast', 4000,'',function(){alert('Your toast was dismissed')})\">Toast!</a>\r\n",
+		"body": "<a class=\"btn\" onclick=\"Materialize.toast('I am a toast', 4000,'',function(){alert('Your toast was dismissed')})\">Toast!</a>",
 		"description": "Callback toast",
 		"scope": "text.html"
 	},
 	"mz-dialogs:toast-default": {
 		"prefix": "mz-dialogs:toast-default",
-		"body": "\r\n<a class=\"btn\" onclick=\"Materialize.toast('I am a toast', 4000)\">Toast!</a>\r\n",
+		"body": "<a class=\"btn\" onclick=\"Materialize.toast('I am a toast', 4000)\">Toast!</a>",
 		"description": "Default toast",
 		"scope": "text.html"
 	},
 	"mz-dialogs:tooltip-bottom": {
 		"prefix": "mz-dialogs:tooltip-bottom",
-		"body": "\r\n<a class=\"btn tooltipped\" data-position=\"bottom\" data-delay=\"50\" data-tooltip=\"I am tooltip\">Hover me!</a>\r\n",
+		"body": "<a class=\"btn tooltipped\" data-position=\"bottom\" data-delay=\"50\" data-tooltip=\"I am tooltip\">Hover me!</a>",
 		"description": "Tooltip bottom",
 		"scope": "text.html"
 	},
 	"mz-dialogs:tooltip-left": {
 		"prefix": "mz-dialogs:tooltip-left",
-		"body": "\r\n<a class=\"btn tooltipped\" data-position=\"left\" data-delay=\"50\" data-tooltip=\"I am tooltip\">Hover me!</a>\r\n",
+		"body": "<a class=\"btn tooltipped\" data-position=\"left\" data-delay=\"50\" data-tooltip=\"I am tooltip\">Hover me!</a>",
 		"description": "Tooltip left",
 		"scope": "text.html"
 	},
 	"mz-dialogs:tooltip-right": {
 		"prefix": "mz-dialogs:tooltip-right",
-		"body": "\r\n<a class=\"btn tooltipped\" data-position=\"right\" data-delay=\"50\" data-tooltip=\"I am tooltip\">Hover me!</a>\r\n",
+		"body": "<a class=\"btn tooltipped\" data-position=\"right\" data-delay=\"50\" data-tooltip=\"I am tooltip\">Hover me!</a>",
 		"description": "Tooltip right",
 		"scope": "text.html"
 	},
 	"mz-dialogs:tooltip-top": {
 		"prefix": "mz-dialogs:tooltip-top",
-		"body": "\r\n<a class=\"btn tooltipped\" data-position=\"top\" data-delay=\"50\" data-tooltip=\"I am tooltip\">Hover me!</a>\r\n",
+		"body": "<a class=\"btn tooltipped\" data-position=\"top\" data-delay=\"50\" data-tooltip=\"I am tooltip\">Hover me!</a>",
 		"description": "Tooltip top",
 		"scope": "text.html"
 	},
 	"mz-dropdown:dropdown": {
 		"prefix": "mz-dropdown:dropdown",
-		"body": "\r\n<!-- Dropdown Trigger -->\r\n<a class='dropdown-button btn' href='#' data-activates='dropdown1'>Drop Me!</a>\r\n\r\n<!-- Dropdown Structure -->\r\n<ul id='dropdown1' class='dropdown-content'>\r\n  <li><a href=\"#!\">one</a></li>\r\n  <li><a href=\"#!\">two</a></li>\r\n  <li class=\"divider\"></li>\r\n  <li><a href=\"#!\">three</a></li>\r\n</ul>\r\n",
+		"body": "<!-- Dropdown Trigger -->\r\n<a class='dropdown-button btn' href='#' data-activates='dropdown1'>Drop Me!</a>\r\n\r\n<!-- Dropdown Structure -->\r\n<ul id='dropdown1' class='dropdown-content'>\r\n  <li><a href=\"#!\">one</a></li>\r\n  <li><a href=\"#!\">two</a></li>\r\n  <li class=\"divider\"></li>\r\n  <li><a href=\"#!\">three</a></li>\r\n</ul>",
 		"description": "Dropdown structure",
 		"scope": "text.html"
 	},
 	"mz-featurediscovery:tap-target": {
 		"prefix": "mz-featurediscovery:tap-target",
-		"body": "\r\n<div class=\"fixed-action-btn\">\r\n  <a id=\"menu\" class=\"waves-effect waves-light btn-large btn-floating cyan\" onclick=\"$('.tap-target').tapTarget('open')\"><i class=\"material-icons\">menu</i></a>\r\n</div>\r\n<!-- Tap Target Structure -->\r\n<div class=\"tap-target cyan\" data-activates=\"menu\">\r\n  <div class=\"tap-target-content white-text\">\r\n    <h5>I am here</h5>\r\n    <p>Provide value and encourage return visits by introducing users to new features and functionality at contextually relevant moments.</p>\r\n  </div>\r\n</div>\r\n",
+		"body": "<div class=\"fixed-action-btn\">\r\n  <a id=\"menu\" class=\"waves-effect waves-light btn-large btn-floating cyan\" onclick=\"$('.tap-target').tapTarget('open')\"><i class=\"material-icons\">menu</i></a>\r\n</div>\r\n<!-- Tap Target Structure -->\r\n<div class=\"tap-target cyan\" data-activates=\"menu\">\r\n  <div class=\"tap-target-content white-text\">\r\n    <h5>I am here</h5>\r\n    <p>Provide value and encourage return visits by introducing users to new features and functionality at contextually relevant moments.</p>\r\n  </div>\r\n</div>",
 		"description": "Tap Target",
 		"scope": "text.html"
 	},
 	"mz-mediajs:material-box-captions": {
 		"prefix": "mz-mediajs:material-box-captions",
-		"body": "\r\n<img class=\"materialboxed\" data-caption=\"A picture of some deer and tons of trees\" width=\"250\" src=\"https://static.pexels.com/photos/34676/pexels-photo-large.jpg\" alt=\"\">\r\n",
+		"body": "<img class=\"materialboxed\" data-caption=\"A picture of some deer and tons of trees\" width=\"250\" src=\"https://static.pexels.com/photos/34676/pexels-photo-large.jpg\" alt=\"\">",
 		"description": "Material design lightbox captions",
 		"scope": "text.html"
 	},
 	"mz-mediajs:meterial-box": {
 		"prefix": "mz-mediajs:meterial-box",
-		"body": "\r\n<img class=\"materialboxed\" width=\"650\" src=\"https://static.pexels.com/photos/34676/pexels-photo-large.jpg\" alt=\"\">\r\n",
+		"body": "<img class=\"materialboxed\" width=\"650\" src=\"https://static.pexels.com/photos/34676/pexels-photo-large.jpg\" alt=\"\">",
 		"description": "Material design lightbox",
 		"scope": "text.html"
 	},
 	"mz-mediajs:slider-fullscreen": {
 		"prefix": "mz-mediajs:slider-fullscreen",
-		"body": "\r\n<div class=\"slider fullscreen\">\r\n  <ul class=\"slides\">\r\n    <li>\r\n      <img src=\"http://lorempixel.com/580/250/nature/1\" alt=\"\"> <!-- random image -->\r\n      <div class=\"caption center-align\">\r\n        <h3>This is our big Tagline!</h3>\r\n        <h5 class=\"light grey-text text-lighten-3\">Here's our small slogan.</h5>\r\n      </div>\r\n    </li>\r\n    <li>\r\n      <img src=\"http://lorempixel.com/580/250/nature/2\" alt=\"\"> <!-- random image -->\r\n      <div class=\"caption left-align\">\r\n        <h3>Left Aligned Caption</h3>\r\n        <h5 class=\"light grey-text text-lighten-3\">Here's our small slogan.</h5>\r\n      </div>\r\n    </li>\r\n    <li>\r\n      <img src=\"http://lorempixel.com/580/250/nature/3\" alt=\"\"> <!-- random image -->\r\n      <div class=\"caption right-align\">\r\n        <h3>Right Aligned Caption</h3>\r\n        <h5 class=\"light grey-text text-lighten-3\">Here's our small slogan.</h5>\r\n      </div>\r\n    </li>\r\n    <li>\r\n      <img src=\"http://lorempixel.com/580/250/nature/4\" alt=\"\"> <!-- random image -->\r\n      <div class=\"caption center-align\">\r\n        <h3>This is our big Tagline!</h3>\r\n        <h5 class=\"light grey-text text-lighten-3\">Here's our small slogan.</h5>\r\n      </div>\r\n    </li>\r\n  </ul>\r\n</div>\r\n",
+		"body": "<div class=\"slider fullscreen\">\r\n  <ul class=\"slides\">\r\n    <li>\r\n      <img src=\"http://lorempixel.com/580/250/nature/1\" alt=\"\"> <!-- random image -->\r\n      <div class=\"caption center-align\">\r\n        <h3>This is our big Tagline!</h3>\r\n        <h5 class=\"light grey-text text-lighten-3\">Here's our small slogan.</h5>\r\n      </div>\r\n    </li>\r\n    <li>\r\n      <img src=\"http://lorempixel.com/580/250/nature/2\" alt=\"\"> <!-- random image -->\r\n      <div class=\"caption left-align\">\r\n        <h3>Left Aligned Caption</h3>\r\n        <h5 class=\"light grey-text text-lighten-3\">Here's our small slogan.</h5>\r\n      </div>\r\n    </li>\r\n    <li>\r\n      <img src=\"http://lorempixel.com/580/250/nature/3\" alt=\"\"> <!-- random image -->\r\n      <div class=\"caption right-align\">\r\n        <h3>Right Aligned Caption</h3>\r\n        <h5 class=\"light grey-text text-lighten-3\">Here's our small slogan.</h5>\r\n      </div>\r\n    </li>\r\n    <li>\r\n      <img src=\"http://lorempixel.com/580/250/nature/4\" alt=\"\"> <!-- random image -->\r\n      <div class=\"caption center-align\">\r\n        <h3>This is our big Tagline!</h3>\r\n        <h5 class=\"light grey-text text-lighten-3\">Here's our small slogan.</h5>\r\n      </div>\r\n    </li>\r\n  </ul>\r\n</div>",
 		"description": "Material design slider fullscreen",
 		"scope": "text.html"
 	},
 	"mz-mediajs:slider": {
 		"prefix": "mz-mediajs:slider",
-		"body": "\r\n<div class=\"slider\">\r\n  <ul class=\"slides\">\r\n    <li>\r\n      <img src=\"http://lorempixel.com/580/250/nature/1\" alt=\"\"> <!-- random image -->\r\n      <div class=\"caption center-align\">\r\n        <h3>This is our big Tagline!</h3>\r\n        <h5 class=\"light grey-text text-lighten-3\">Here's our small slogan.</h5>\r\n      </div>\r\n    </li>\r\n    <li>\r\n      <img src=\"http://lorempixel.com/580/250/nature/2\" alt=\"\"> <!-- random image -->\r\n      <div class=\"caption left-align\">\r\n        <h3>Left Aligned Caption</h3>\r\n        <h5 class=\"light grey-text text-lighten-3\">Here's our small slogan.</h5>\r\n      </div>\r\n    </li>\r\n    <li>\r\n      <img src=\"http://lorempixel.com/580/250/nature/3\" alt=\"\"> <!-- random image -->\r\n      <div class=\"caption right-align\">\r\n        <h3>Right Aligned Caption</h3>\r\n        <h5 class=\"light grey-text text-lighten-3\">Here's our small slogan.</h5>\r\n      </div>\r\n    </li>\r\n    <li>\r\n      <img src=\"http://lorempixel.com/580/250/nature/4\" alt=\"\"> <!-- random image -->\r\n      <div class=\"caption center-align\">\r\n        <h3>This is our big Tagline!</h3>\r\n        <h5 class=\"light grey-text text-lighten-3\">Here's our small slogan.</h5>\r\n      </div>\r\n    </li>\r\n  </ul>\r\n</div>\r\n",
+		"body": "<div class=\"slider\">\r\n  <ul class=\"slides\">\r\n    <li>\r\n      <img src=\"http://lorempixel.com/580/250/nature/1\" alt=\"\"> <!-- random image -->\r\n      <div class=\"caption center-align\">\r\n        <h3>This is our big Tagline!</h3>\r\n        <h5 class=\"light grey-text text-lighten-3\">Here's our small slogan.</h5>\r\n      </div>\r\n    </li>\r\n    <li>\r\n      <img src=\"http://lorempixel.com/580/250/nature/2\" alt=\"\"> <!-- random image -->\r\n      <div class=\"caption left-align\">\r\n        <h3>Left Aligned Caption</h3>\r\n        <h5 class=\"light grey-text text-lighten-3\">Here's our small slogan.</h5>\r\n      </div>\r\n    </li>\r\n    <li>\r\n      <img src=\"http://lorempixel.com/580/250/nature/3\" alt=\"\"> <!-- random image -->\r\n      <div class=\"caption right-align\">\r\n        <h3>Right Aligned Caption</h3>\r\n        <h5 class=\"light grey-text text-lighten-3\">Here's our small slogan.</h5>\r\n      </div>\r\n    </li>\r\n    <li>\r\n      <img src=\"http://lorempixel.com/580/250/nature/4\" alt=\"\"> <!-- random image -->\r\n      <div class=\"caption center-align\">\r\n        <h3>This is our big Tagline!</h3>\r\n        <h5 class=\"light grey-text text-lighten-3\">Here's our small slogan.</h5>\r\n      </div>\r\n    </li>\r\n  </ul>\r\n</div>",
 		"description": "Material design slider",
 		"scope": "text.html"
 	},
 	"mz-modals:fixed-footer": {
 		"prefix": "mz-modals:fixed-footer",
-		"body": "\r\n<!-- Modal Trigger -->\r\n<a class=\"waves-effect waves-light btn modal-trigger\" href=\"#modal1\">Modal Fixed Footer</a>\r\n\r\n<!-- Modal Structure -->\r\n<div id=\"modal1\" class=\"modal modal-fixed-footer\">\r\n  <div class=\"modal-content\">\r\n    <h4>Modal Header</h4>\r\n    <p>A bunch of text</p>\r\n  </div>\r\n  <div class=\"modal-footer\">\r\n    <a href=\"#!\" class=\" modal-action modal-close waves-effect waves-red btn-flat\">Disagree</a>\r\n    <a href=\"#!\" class=\" modal-action modal-close waves-effect waves-green btn-flat\">Agree</a>\r\n  </div>\r\n</div>\r\n",
+		"body": "<!-- Modal Trigger -->\r\n<a class=\"waves-effect waves-light btn modal-trigger\" href=\"#modal1\">Modal Fixed Footer</a>\r\n\r\n<!-- Modal Structure -->\r\n<div id=\"modal1\" class=\"modal modal-fixed-footer\">\r\n  <div class=\"modal-content\">\r\n    <h4>Modal Header</h4>\r\n    <p>A bunch of text</p>\r\n  </div>\r\n  <div class=\"modal-footer\">\r\n    <a href=\"#!\" class=\" modal-action modal-close waves-effect waves-red btn-flat\">Disagree</a>\r\n    <a href=\"#!\" class=\" modal-action modal-close waves-effect waves-green btn-flat\">Agree</a>\r\n  </div>\r\n</div>",
 		"description": "Fixed footer modal",
 		"scope": "text.html"
 	},
 	"mz-modals:bottom-sheet": {
 		"prefix": "mz-modals:bottom-sheet",
-		"body": "\r\n<!-- Modal Trigger -->\r\n<a class=\"waves-effect waves-light btn modal-trigger\" href=\"#modal1\">Modal Bottom Sheet</a>\r\n\r\n<!-- Modal Structure -->\r\n<div id=\"modal1\" class=\"modal bottom-sheet\">\r\n  <div class=\"modal-content\">\r\n    <h4>Modal Header</h4>\r\n    <p>A bunch of text</p>\r\n  </div>\r\n  <div class=\"modal-footer\">\r\n    <a href=\"#!\" class=\" modal-action modal-close waves-effect waves-red btn-flat\">Disagree</a>\r\n    <a href=\"#!\" class=\" modal-action modal-close waves-effect waves-green btn-flat\">Agree</a>\r\n  </div>\r\n</div>\r\n",
+		"body": "<!-- Modal Trigger -->\r\n<a class=\"waves-effect waves-light btn modal-trigger\" href=\"#modal1\">Modal Bottom Sheet</a>\r\n\r\n<!-- Modal Structure -->\r\n<div id=\"modal1\" class=\"modal bottom-sheet\">\r\n  <div class=\"modal-content\">\r\n    <h4>Modal Header</h4>\r\n    <p>A bunch of text</p>\r\n  </div>\r\n  <div class=\"modal-footer\">\r\n    <a href=\"#!\" class=\" modal-action modal-close waves-effect waves-red btn-flat\">Disagree</a>\r\n    <a href=\"#!\" class=\" modal-action modal-close waves-effect waves-green btn-flat\">Agree</a>\r\n  </div>\r\n</div>",
 		"description": "Bottom sheet modal",
 		"scope": "text.html"
 	},
 	"mz-modals:default": {
 		"prefix": "mz-modals:default",
-		"body": "\r\n<!-- Modal Trigger -->\r\n<a class=\"waves-effect waves-light btn modal-trigger\" href=\"#modal1\">Modal Default</a>\r\n\r\n<!-- Modal Structure -->\r\n<div id=\"modal1\" class=\"modal\">\r\n  <div class=\"modal-content\">\r\n    <h4>Modal Header</h4>\r\n    <p>A bunch of text</p>\r\n  </div>\r\n  <div class=\"modal-footer\">\r\n    <a href=\"#!\" class=\" modal-action modal-close waves-effect waves-red btn-flat\">Disagree</a>\r\n    <a href=\"#!\" class=\" modal-action modal-close waves-effect waves-green btn-flat\">Agree</a>\r\n  </div>\r\n</div>\r\n",
+		"body": "<!-- Modal Trigger -->\r\n<a class=\"waves-effect waves-light btn modal-trigger\" href=\"#modal1\">Modal Default</a>\r\n\r\n<!-- Modal Structure -->\r\n<div id=\"modal1\" class=\"modal\">\r\n  <div class=\"modal-content\">\r\n    <h4>Modal Header</h4>\r\n    <p>A bunch of text</p>\r\n  </div>\r\n  <div class=\"modal-footer\">\r\n    <a href=\"#!\" class=\" modal-action modal-close waves-effect waves-red btn-flat\">Disagree</a>\r\n    <a href=\"#!\" class=\" modal-action modal-close waves-effect waves-green btn-flat\">Agree</a>\r\n  </div>\r\n</div>",
 		"description": "Default modal",
 		"scope": "text.html"
 	},
 	"mz-sidenav:dropdown-structure": {
 		"prefix": "mz-sidenav:dropdown-structure",
-		"body": "\r\n<nav>\r\n  <div class=\"nav-wrapper\">\r\n    <div class=\"container\">\r\n      <a href=\"#\" class=\"brand-logo\">LOGO</a>\r\n      <!-- mobile menu trigger -->\r\n      <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse\"><i class=\"material-icons\">menu</i></a>\r\n      <!-- desktop menu content -->\r\n      <ul class=\"right hide-on-med-and-down\">\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <!-- desktop menu dropdown trigger -->\r\n        <li><a class=\"dropdown-button\" href=\"#!\" data-activates=\"dropdown1\">Dropdown<i class=\"material-icons right\">arrow_drop_down</i></a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <!-- desktop menu dropdown content -->\r\n        <ul id='dropdown1' class='dropdown-content'>\r\n          <li><a href=\"#!\">sub-dropdown1</a></li>\r\n          <li><a href=\"#!\">sub-dropdown2</a></li>\r\n          <li><a href=\"#!\">sub-dropdown3</a></li>\r\n          <li><a href=\"#!\">sub-dropdown4</a></li>\r\n        </ul>\r\n      </ul>\r\n      <!-- mobile and tablet menu content -->\r\n      <ul id=\"mobile-menu\" class=\"side-nav\">\r\n        <li>\r\n          <div class=\"userView\">\r\n            <div class=\"background\">\r\n              <img src=\"http://lorempixel.com/output/abstract-q-c-640-480-10.jpg\" alt=\"\">\r\n            </div>\r\n              <a href=\"#!user\"><img class=\"circle\" src=\"http://lorempixel.com/output/people-q-c-640-480-9.jpg\" alt=\"\"></a>\r\n              <a href=\"#!name\"><span class=\"white-text name\">John Doe</span></a>\r\n              <a href=\"#!email\"><span class=\"white-text email\">jdandturk@gmail.com</span></a>\r\n          </div>\r\n        </li>\r\n        <li><a href=\"#!\">item1</a></li>\r\n        <li><a href=\"#!\">item2</a></li>\r\n        <li class=\"no-padding\">\r\n          <ul class=\"collapsible collapsible-accordion\">\r\n            <li>\r\n              <!-- mobile and tablet menu dropdown trigger -->\r\n              <a class=\"collapsible-header\">Dropdown<i class=\"material-icons right\">arrow_drop_down</i></a>\r\n              <div class=\"collapsible-body\">\r\n                <!-- mobile and tablet dropdown content -->\r\n                <ul>\r\n                  <li><a href=\"#!\">sub-dropdown1</a></li>\r\n                  <li><a href=\"#!\">sub-dropdown2</a></li>\r\n                  <li><a href=\"#!\">sub-dropdown3</a></li>\r\n                  <li><a href=\"#!\">sub-dropdown4</a></li>\r\n                </ul>\r\n                </div>\r\n              </li>\r\n            </ul>\r\n          </li>\r\n          <li><a href=\"#!\">item3</a></li>\r\n      </ul>\r\n    </div>\r\n  </div>\r\n</nav>\r\n",
+		"body": "<nav>\r\n  <div class=\"nav-wrapper\">\r\n    <div class=\"container\">\r\n      <a href=\"#\" class=\"brand-logo\">LOGO</a>\r\n      <!-- mobile menu trigger -->\r\n      <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse\"><i class=\"material-icons\">menu</i></a>\r\n      <!-- desktop menu content -->\r\n      <ul class=\"right hide-on-med-and-down\">\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <!-- desktop menu dropdown trigger -->\r\n        <li><a class=\"dropdown-button\" href=\"#!\" data-activates=\"dropdown1\">Dropdown<i class=\"material-icons right\">arrow_drop_down</i></a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <!-- desktop menu dropdown content -->\r\n        <ul id='dropdown1' class='dropdown-content'>\r\n          <li><a href=\"#!\">sub-dropdown1</a></li>\r\n          <li><a href=\"#!\">sub-dropdown2</a></li>\r\n          <li><a href=\"#!\">sub-dropdown3</a></li>\r\n          <li><a href=\"#!\">sub-dropdown4</a></li>\r\n        </ul>\r\n      </ul>\r\n      <!-- mobile and tablet menu content -->\r\n      <ul id=\"mobile-menu\" class=\"side-nav\">\r\n        <li>\r\n          <div class=\"userView\">\r\n            <div class=\"background\">\r\n              <img src=\"http://lorempixel.com/output/abstract-q-c-640-480-10.jpg\" alt=\"\">\r\n            </div>\r\n              <a href=\"#!user\"><img class=\"circle\" src=\"http://lorempixel.com/output/people-q-c-640-480-9.jpg\" alt=\"\"></a>\r\n              <a href=\"#!name\"><span class=\"white-text name\">John Doe</span></a>\r\n              <a href=\"#!email\"><span class=\"white-text email\">jdandturk@gmail.com</span></a>\r\n          </div>\r\n        </li>\r\n        <li><a href=\"#!\">item1</a></li>\r\n        <li><a href=\"#!\">item2</a></li>\r\n        <li class=\"no-padding\">\r\n          <ul class=\"collapsible collapsible-accordion\">\r\n            <li>\r\n              <!-- mobile and tablet menu dropdown trigger -->\r\n              <a class=\"collapsible-header\">Dropdown<i class=\"material-icons right\">arrow_drop_down</i></a>\r\n              <div class=\"collapsible-body\">\r\n                <!-- mobile and tablet dropdown content -->\r\n                <ul>\r\n                  <li><a href=\"#!\">sub-dropdown1</a></li>\r\n                  <li><a href=\"#!\">sub-dropdown2</a></li>\r\n                  <li><a href=\"#!\">sub-dropdown3</a></li>\r\n                  <li><a href=\"#!\">sub-dropdown4</a></li>\r\n                </ul>\r\n                </div>\r\n              </li>\r\n            </ul>\r\n          </li>\r\n          <li><a href=\"#!\">item3</a></li>\r\n      </ul>\r\n    </div>\r\n  </div>\r\n</nav>",
 		"description": "Sidenav dropdown",
 		"scope": "text.html"
 	},
 	"mz-sidenav:fixed-structure": {
 		"prefix": "mz-sidenav:fixed-structure",
-		"body": "\r\n<nav>\r\n  <div class=\"nav-wrapper\">\r\n    <div class=\"container\">\r\n      <a href=\"#\" class=\"brand-logo center\">LOGO</a>\r\n      <!-- mobile menu trigger -->\r\n      <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse\"><i class=\"material-icons\">menu</i></a>\r\n      <!-- desktop menu content -->\r\n      <ul class=\"right hide-on-med-and-down\">\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <!-- desktop menu dropdown trigger -->\r\n        <li><a class=\"dropdown-button\" href=\"#!\" data-activates=\"dropdown1\">Dropdown<i class=\"material-icons right\">arrow_drop_down</i></a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <!-- desktop menu dropdown content -->\r\n        <ul id='dropdown1' class='dropdown-content'>\r\n          <li><a href=\"#!\">sub-dropdown1</a></li>\r\n          <li><a href=\"#!\">sub-dropdown2</a></li>\r\n          <li><a href=\"#!\">sub-dropdown3</a></li>\r\n          <li><a href=\"#!\">sub-dropdown4</a></li>\r\n        </ul>\r\n      </ul>\r\n      <!-- mobile and tablet menu content -->\r\n      <ul id=\"mobile-menu\" class=\"side-nav fixed\">\r\n        <li>\r\n          <div class=\"userView\">\r\n            <div class=\"background\">\r\n              <img src=\"http://lorempixel.com/output/abstract-q-c-640-480-10.jpg\" alt=\"\">\r\n            </div>\r\n            <a href=\"#!user\"><img class=\"circle\" src=\"http://lorempixel.com/output/people-q-c-640-480-9.jpg\" alt=\"\"></a>\r\n            <a href=\"#!name\"><span class=\"white-text name\">John Doe</span></a>\r\n            <a href=\"#!email\"><span class=\"white-text email\">jdandturk@gmail.com</span></a>\r\n          </div>\r\n        </li>\r\n        <li><a href=\"#!\">item1</a></li>\r\n        <li><a href=\"#!\">item2</a></li>\r\n        <li class=\"no-padding\">\r\n          <ul class=\"collapsible collapsible-accordion\">\r\n            <li>\r\n              <!-- mobile and tablet menu dropdown trigger -->\r\n              <a class=\"collapsible-header\">Dropdown<i class=\"material-icons right\">arrow_drop_down</i></a>\r\n              <div class=\"collapsible-body\">\r\n                <!-- mobile and tablet dropdown content -->\r\n                <ul>\r\n                  <li><a href=\"#!\">sub-dropdown1</a></li>\r\n                  <li><a href=\"#!\">sub-dropdown2</a></li>\r\n                  <li><a href=\"#!\">sub-dropdown3</a></li>\r\n                  <li><a href=\"#!\">sub-dropdown4</a></li>\r\n                </ul>\r\n                </div>\r\n              </li>\r\n            </ul>\r\n          </li>\r\n          <li><a href=\"#!\">item3</a></li>\r\n      </ul>\r\n    </div>\r\n  </div>\r\n</nav>\r\n",
+		"body": "<nav>\r\n  <div class=\"nav-wrapper\">\r\n    <div class=\"container\">\r\n      <a href=\"#\" class=\"brand-logo center\">LOGO</a>\r\n      <!-- mobile menu trigger -->\r\n      <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse\"><i class=\"material-icons\">menu</i></a>\r\n      <!-- desktop menu content -->\r\n      <ul class=\"right hide-on-med-and-down\">\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <!-- desktop menu dropdown trigger -->\r\n        <li><a class=\"dropdown-button\" href=\"#!\" data-activates=\"dropdown1\">Dropdown<i class=\"material-icons right\">arrow_drop_down</i></a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <!-- desktop menu dropdown content -->\r\n        <ul id='dropdown1' class='dropdown-content'>\r\n          <li><a href=\"#!\">sub-dropdown1</a></li>\r\n          <li><a href=\"#!\">sub-dropdown2</a></li>\r\n          <li><a href=\"#!\">sub-dropdown3</a></li>\r\n          <li><a href=\"#!\">sub-dropdown4</a></li>\r\n        </ul>\r\n      </ul>\r\n      <!-- mobile and tablet menu content -->\r\n      <ul id=\"mobile-menu\" class=\"side-nav fixed\">\r\n        <li>\r\n          <div class=\"userView\">\r\n            <div class=\"background\">\r\n              <img src=\"http://lorempixel.com/output/abstract-q-c-640-480-10.jpg\" alt=\"\">\r\n            </div>\r\n            <a href=\"#!user\"><img class=\"circle\" src=\"http://lorempixel.com/output/people-q-c-640-480-9.jpg\" alt=\"\"></a>\r\n            <a href=\"#!name\"><span class=\"white-text name\">John Doe</span></a>\r\n            <a href=\"#!email\"><span class=\"white-text email\">jdandturk@gmail.com</span></a>\r\n          </div>\r\n        </li>\r\n        <li><a href=\"#!\">item1</a></li>\r\n        <li><a href=\"#!\">item2</a></li>\r\n        <li class=\"no-padding\">\r\n          <ul class=\"collapsible collapsible-accordion\">\r\n            <li>\r\n              <!-- mobile and tablet menu dropdown trigger -->\r\n              <a class=\"collapsible-header\">Dropdown<i class=\"material-icons right\">arrow_drop_down</i></a>\r\n              <div class=\"collapsible-body\">\r\n                <!-- mobile and tablet dropdown content -->\r\n                <ul>\r\n                  <li><a href=\"#!\">sub-dropdown1</a></li>\r\n                  <li><a href=\"#!\">sub-dropdown2</a></li>\r\n                  <li><a href=\"#!\">sub-dropdown3</a></li>\r\n                  <li><a href=\"#!\">sub-dropdown4</a></li>\r\n                </ul>\r\n                </div>\r\n              </li>\r\n            </ul>\r\n          </li>\r\n          <li><a href=\"#!\">item3</a></li>\r\n      </ul>\r\n    </div>\r\n  </div>\r\n</nav>",
 		"description": "Sidenav fixed",
 		"scope": "text.html"
 	},
 	"mz-sidenav:fullscreen-structure": {
 		"prefix": "mz-sidenav:fullscreen-structure",
-		"body": "\r\n<nav>\r\n  <div class=\"nav-wrapper\">\r\n    <div class=\"container\">\r\n      <a href=\"#\" class=\"brand-logo center\">LOGO</a>\r\n      <!-- mobile menu trigger -->\r\n      <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse show-on-large\"><i class=\"material-icons\">menu</i></a>\r\n      <!-- desktop menu content -->\r\n      <ul class=\"right hide-on-med-and-down\">\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <!-- desktop menu dropdown trigger -->\r\n        <li><a class=\"dropdown-button\" href=\"#!\" data-activates=\"dropdown1\">Dropdown<i class=\"material-icons right\">arrow_drop_down</i></a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <!-- desktop menu dropdown content -->\r\n        <ul id='dropdown1' class='dropdown-content'>\r\n          <li><a href=\"#!\">sub-dropdown1</a></li>\r\n          <li><a href=\"#!\">sub-dropdown2</a></li>\r\n          <li><a href=\"#!\">sub-dropdown3</a></li>\r\n          <li><a href=\"#!\">sub-dropdown4</a></li>\r\n        </ul>\r\n      </ul>\r\n      <!-- mobile and tablet menu content -->\r\n      <ul id=\"mobile-menu\" class=\"side-nav\">\r\n        <li>\r\n          <div class=\"userView\">\r\n            <div class=\"background\">\r\n              <img src=\"http://lorempixel.com/output/abstract-q-c-640-480-10.jpg\" alt=\"\">\r\n            </div>\r\n            <a href=\"#!user\"><img class=\"circle\" src=\"http://lorempixel.com/output/people-q-c-640-480-9.jpg\" alt=\"\"></a>\r\n            <a href=\"#!name\"><span class=\"white-text name\">John Doe</span></a>\r\n            <a href=\"#!email\"><span class=\"white-text email\">jdandturk@gmail.com</span></a>\r\n          </div>\r\n        </li>\r\n        <li><a href=\"#!\">item1</a></li>\r\n        <li><a href=\"#!\">item2</a></li>\r\n        <li class=\"no-padding\">\r\n          <ul class=\"collapsible collapsible-accordion\">\r\n            <li>\r\n              <!-- mobile and tablet menu dropdown trigger -->\r\n              <a class=\"collapsible-header\">Dropdown<i class=\"material-icons right\">arrow_drop_down</i></a>\r\n              <div class=\"collapsible-body\">\r\n                <!-- mobile and tablet dropdown content -->\r\n                <ul>\r\n                  <li><a href=\"#!\">sub-dropdown1</a></li>\r\n                  <li><a href=\"#!\">sub-dropdown2</a></li>\r\n                  <li><a href=\"#!\">sub-dropdown3</a></li>\r\n                  <li><a href=\"#!\">sub-dropdown4</a></li>\r\n                </ul>\r\n                </div>\r\n              </li>\r\n            </ul>\r\n          </li>\r\n          <li><a href=\"#!\">item3</a></li>\r\n      </ul>\r\n    </div>\r\n  </div>\r\n</nav>\r\n",
+		"body": "<nav>\r\n  <div class=\"nav-wrapper\">\r\n    <div class=\"container\">\r\n      <a href=\"#\" class=\"brand-logo center\">LOGO</a>\r\n      <!-- mobile menu trigger -->\r\n      <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse show-on-large\"><i class=\"material-icons\">menu</i></a>\r\n      <!-- desktop menu content -->\r\n      <ul class=\"right hide-on-med-and-down\">\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <!-- desktop menu dropdown trigger -->\r\n        <li><a class=\"dropdown-button\" href=\"#!\" data-activates=\"dropdown1\">Dropdown<i class=\"material-icons right\">arrow_drop_down</i></a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <!-- desktop menu dropdown content -->\r\n        <ul id='dropdown1' class='dropdown-content'>\r\n          <li><a href=\"#!\">sub-dropdown1</a></li>\r\n          <li><a href=\"#!\">sub-dropdown2</a></li>\r\n          <li><a href=\"#!\">sub-dropdown3</a></li>\r\n          <li><a href=\"#!\">sub-dropdown4</a></li>\r\n        </ul>\r\n      </ul>\r\n      <!-- mobile and tablet menu content -->\r\n      <ul id=\"mobile-menu\" class=\"side-nav\">\r\n        <li>\r\n          <div class=\"userView\">\r\n            <div class=\"background\">\r\n              <img src=\"http://lorempixel.com/output/abstract-q-c-640-480-10.jpg\" alt=\"\">\r\n            </div>\r\n            <a href=\"#!user\"><img class=\"circle\" src=\"http://lorempixel.com/output/people-q-c-640-480-9.jpg\" alt=\"\"></a>\r\n            <a href=\"#!name\"><span class=\"white-text name\">John Doe</span></a>\r\n            <a href=\"#!email\"><span class=\"white-text email\">jdandturk@gmail.com</span></a>\r\n          </div>\r\n        </li>\r\n        <li><a href=\"#!\">item1</a></li>\r\n        <li><a href=\"#!\">item2</a></li>\r\n        <li class=\"no-padding\">\r\n          <ul class=\"collapsible collapsible-accordion\">\r\n            <li>\r\n              <!-- mobile and tablet menu dropdown trigger -->\r\n              <a class=\"collapsible-header\">Dropdown<i class=\"material-icons right\">arrow_drop_down</i></a>\r\n              <div class=\"collapsible-body\">\r\n                <!-- mobile and tablet dropdown content -->\r\n                <ul>\r\n                  <li><a href=\"#!\">sub-dropdown1</a></li>\r\n                  <li><a href=\"#!\">sub-dropdown2</a></li>\r\n                  <li><a href=\"#!\">sub-dropdown3</a></li>\r\n                  <li><a href=\"#!\">sub-dropdown4</a></li>\r\n                </ul>\r\n                </div>\r\n              </li>\r\n            </ul>\r\n          </li>\r\n          <li><a href=\"#!\">item3</a></li>\r\n      </ul>\r\n    </div>\r\n  </div>\r\n</nav>",
 		"description": "Sidenav fixed",
 		"scope": "text.html"
 	},
 	"mz-sidenav:html-structure": {
 		"prefix": "mz-sidenav:html-structure",
-		"body": "\r\n<nav>\r\n  <div class=\"nav-wrapper\">\r\n    <div class=\"container\">\r\n      <a href=\"#\" class=\"brand-logo\">LOGO</a>\r\n      <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse\"><i class=\"material-icons\">menu</i></a>\r\n      <ul class=\"right hide-on-med-and-down\">\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <li><a href=\"#\">item4</a></li>\r\n      </ul>\r\n      <ul class=\"side-nav\" id=\"mobile-menu\">\r\n        <li>\r\n          <div class=\"userView\">\r\n            <div class=\"background\">\r\n              <img src=\"http://lorempixel.com/output/abstract-q-c-640-480-10.jpg\" alt=\"\">\r\n            </div>\r\n            <a href=\"#!user\"><img class=\"circle\" src=\"http://lorempixel.com/output/people-q-c-640-480-9.jpg\" alt=\"\"></a>\r\n            <a href=\"#!name\"><span class=\"white-text name\">John Doe</span></a>\r\n            <a href=\"#!email\"><span class=\"white-text email\">jdandturk@gmail.com</span></a>\r\n          </div>\r\n        </li>\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <li><a href=\"#\">item4</a></li>\r\n      </ul>\r\n    </div>\r\n  </div>\r\n</nav>\r\n",
+		"body": "<nav>\r\n  <div class=\"nav-wrapper\">\r\n    <div class=\"container\">\r\n      <a href=\"#\" class=\"brand-logo\">LOGO</a>\r\n      <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse\"><i class=\"material-icons\">menu</i></a>\r\n      <ul class=\"right hide-on-med-and-down\">\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <li><a href=\"#\">item4</a></li>\r\n      </ul>\r\n      <ul class=\"side-nav\" id=\"mobile-menu\">\r\n        <li>\r\n          <div class=\"userView\">\r\n            <div class=\"background\">\r\n              <img src=\"http://lorempixel.com/output/abstract-q-c-640-480-10.jpg\" alt=\"\">\r\n            </div>\r\n            <a href=\"#!user\"><img class=\"circle\" src=\"http://lorempixel.com/output/people-q-c-640-480-9.jpg\" alt=\"\"></a>\r\n            <a href=\"#!name\"><span class=\"white-text name\">John Doe</span></a>\r\n            <a href=\"#!email\"><span class=\"white-text email\">jdandturk@gmail.com</span></a>\r\n          </div>\r\n        </li>\r\n        <li><a href=\"#\">item1</a></li>\r\n        <li><a href=\"#\">item2</a></li>\r\n        <li><a href=\"#\">item3</a></li>\r\n        <li><a href=\"#\">item4</a></li>\r\n      </ul>\r\n    </div>\r\n  </div>\r\n</nav>",
 		"description": "Sidenav HTML structure",
 		"scope": "text.html"
 	},
 	"mz-tabs:default": {
 		"prefix": "mz-tabs:default",
-		"body": "\r\n<div class=\"row\">\r\n  <div class=\"col s12\">\r\n    <ul class=\"tabs\">\r\n      <li class=\"tab col s3\"><a href=\"#test1\">Test 1</a></li>\r\n      <li class=\"tab col s3\"><a class=\"active\" href=\"#test2\">Test 2</a></li>\r\n      <li class=\"tab col s3 disabled\"><a href=\"#test3\">Disabled Tab</a></li>\r\n      <li class=\"tab col s3\"><a href=\"#test4\">Test 4</a></li>\r\n    </ul>\r\n  </div>\r\n  <div id=\"test1\" class=\"col s12\">Test 1</div>\r\n  <div id=\"test2\" class=\"col s12\">Test 2</div>\r\n  <div id=\"test3\" class=\"col s12\">Test 3</div>\r\n  <div id=\"test4\" class=\"col s12\">Test 4</div>\r\n</div>\r\n",
+		"body": "<div class=\"row\">\r\n  <div class=\"col s12\">\r\n    <ul class=\"tabs\">\r\n      <li class=\"tab col s3\"><a href=\"#test1\">Test 1</a></li>\r\n      <li class=\"tab col s3\"><a class=\"active\" href=\"#test2\">Test 2</a></li>\r\n      <li class=\"tab col s3 disabled\"><a href=\"#test3\">Disabled Tab</a></li>\r\n      <li class=\"tab col s3\"><a href=\"#test4\">Test 4</a></li>\r\n    </ul>\r\n  </div>\r\n  <div id=\"test1\" class=\"col s12\">Test 1</div>\r\n  <div id=\"test2\" class=\"col s12\">Test 2</div>\r\n  <div id=\"test3\" class=\"col s12\">Test 3</div>\r\n  <div id=\"test4\" class=\"col s12\">Test 4</div>\r\n</div>",
 		"description": "Default tab",
 		"scope": "text.html"
 	},
 	"mz-tabs:swipeable": {
 		"prefix": "mz-tabs:swipeable",
-		"body": "\r\n<ul id=\"tabs-swipe-demo\" class=\"tabs\">\r\n  <li class=\"tab col s3\"><a href=\"#test-swipe-1\">Test 1</a></li>\r\n  <li class=\"tab col s3\"><a class=\"active\" href=\"#test-swipe-2\">Test 2</a></li>\r\n  <li class=\"tab col s3\"><a href=\"#test-swipe-3\">Test 3</a></li>\r\n</ul>\r\n<div id=\"test-swipe-1\" class=\"col s12 blue\"><p class=\"white-text\">This is the content of the test 1: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate obcaecati doloribus sint numquam similique eaque, assumenda possimus mollitia? Asperiores qui iusto recusandae distinctio cumque assumenda praesentium aspernatur modi quod id!</p></div>\r\n<div id=\"test-swipe-2\" class=\"col s12 red\"><p class=\"white-text\">This is the content of the test 2: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur nihil molestiae qui asperiores pariatur adipisci sequi quaerat fugit voluptatem debitis. Accusamus provident temporibus velit labore eum magnam id, natus doloribus.</p></div>\r\n<div id=\"test-swipe-3\" class=\"col s12 green\"><p class=\"white-text\">This is the content of the test 3: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem hic non minus maxime, sunt atque nostrum quod architecto voluptatum eos aliquid fugit deleniti quasi, dolor delectus numquam quisquam totam mollitia.</p></div>\r\n",
+		"body": "<ul id=\"tabs-swipe-demo\" class=\"tabs\">\r\n  <li class=\"tab col s3\"><a href=\"#test-swipe-1\">Test 1</a></li>\r\n  <li class=\"tab col s3\"><a class=\"active\" href=\"#test-swipe-2\">Test 2</a></li>\r\n  <li class=\"tab col s3\"><a href=\"#test-swipe-3\">Test 3</a></li>\r\n</ul>\r\n<div id=\"test-swipe-1\" class=\"col s12 blue\"><p class=\"white-text\">This is the content of the test 1: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate obcaecati doloribus sint numquam similique eaque, assumenda possimus mollitia? Asperiores qui iusto recusandae distinctio cumque assumenda praesentium aspernatur modi quod id!</p></div>\r\n<div id=\"test-swipe-2\" class=\"col s12 red\"><p class=\"white-text\">This is the content of the test 2: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur nihil molestiae qui asperiores pariatur adipisci sequi quaerat fugit voluptatem debitis. Accusamus provident temporibus velit labore eum magnam id, natus doloribus.</p></div>\r\n<div id=\"test-swipe-3\" class=\"col s12 green\"><p class=\"white-text\">This is the content of the test 3: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem hic non minus maxime, sunt atque nostrum quod architecto voluptatum eos aliquid fugit deleniti quasi, dolor delectus numquam quisquam totam mollitia.</p></div>",
 		"description": "Swipeable tab",
 		"scope": "text.html"
 	},
 	"mz-template:grid": {
 		"prefix": "mz-template:grid",
-		"body": "\r\n<div class=\"container\">\r\n  <div class=\"row\">\r\n    <div class=\"col s12 m4 l6\">\r\n      <!-- Your content here -->\r\n    </div>\r\n  </div>\r\n</div>\r\n",
+		"body": "<div class=\"container\">\r\n  <div class=\"row\">\r\n    <div class=\"col s12 m4 l6\">\r\n      <!-- Your content here -->\r\n    </div>\r\n  </div>\r\n</div>",
 		"description": "Basic grid structure",
 		"scope": "text.html"
 	},
 	"mz-template:cdn": {
 		"prefix": "mz-template:cdn",
-		"body": "\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n  <head>\r\n  \t<meta charset=\"UTF-8\">\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>\r\n  \t<title>Title of the document</title>\r\n    <!-- Material Icon CDN -->\r\n  \t<link href=\"https://fonts.googleapis.com/icon?family=Material+Icons\" rel=\"stylesheet\">\r\n    <!-- Materialize CSS CDN -->\r\n  \t<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css\">\r\n    <!-- Your custom styles -->\r\n  \t<link rel=\"stylesheet\" href=\"css/style.css\">\r\n    <!-- Used as an example only to position the footer at the end of the page.\r\n    You can delete these styles or move it to your custom css file -->\r\n    <style>\r\n      body {\r\n        display: flex;\r\n        min-height: 100vh;\r\n        flex-direction: column;\r\n        }\r\n      main {\r\n        flex: 1 0 auto;\r\n      }\r\n    </style>\r\n  </head>\r\n  <body>\r\n    <header>\r\n      <nav class=\"cyan\">\r\n        <div class=\"nav-wrapper\">\r\n          <div class=\"container\">\r\n            <a href=\"#\" class=\"brand-logo\">LOGO</a>\r\n            <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse\"><i class=\"material-icons\">menu</i></a>\r\n            <ul class=\"right hide-on-med-and-down\">\r\n              <li><a href=\"#\">item1</a></li>\r\n              <li><a href=\"#\">item2</a></li>\r\n              <li><a href=\"#\">item3</a></li>\r\n              <li><a href=\"#\">item4</a></li>\r\n            </ul>\r\n            <ul class=\"side-nav\" id=\"mobile-menu\">\r\n              <li>\r\n                <div class=\"userView\">\r\n                  <div class=\"background\">\r\n                    <img src=\"http://lorempixel.com/output/abstract-q-c-640-480-10.jpg\" alt=\"Background Sidenav\">\r\n                  </div>\r\n                  <a href=\"#!user\"><img class=\"circle\" src=\"http://lorempixel.com/output/people-q-c-640-480-9.jpg\" alt=\"User Image Sidenav\"></a>\r\n                  <a href=\"#!name\"><span class=\"white-text name\">John Doe</span></a>\r\n                  <a href=\"#!email\"><span class=\"white-text email\">jdandturk@gmail.com</span></a>\r\n                </div>\r\n              </li>\r\n              <li><a href=\"#\">item1</a></li>\r\n              <li><a href=\"#\">item2</a></li>\r\n              <li><a href=\"#\">item3</a></li>\r\n              <li><a href=\"#\">item4</a></li>\r\n            </ul>\r\n          </div>\r\n        </div>\r\n      </nav>\r\n    </header>\r\n  \t<main>\r\n      <!-- Your content here -->\r\n    </main>\r\n    <footer class=\"page-footer cyan\">\r\n      <div class=\"container\">\r\n        <div class=\"row\">\r\n          <div class=\"col s12 m8 l6\">\r\n            <h5 class=\"white-text\">First Footer Content</h5>\r\n            <p class=\"grey-text text-lighten-4\">You can use rows and columns here to organize your footer content.</p>\r\n          </div>\r\n          <div class=\"col s12 m4 l6\">\r\n            <h5 class=\"white-text\">Second Footer Content</h5>\r\n            <p class=\"grey-text text-lighten-4\">You can use rows and columns here to organize your footer content.</p>\r\n          </div>\r\n        </div>\r\n      </div>\r\n      <div class=\"footer-copyright\">\r\n        <div class=\"container\">\r\n          © 2017 Copyright Text\r\n          <a class=\"grey-text text-lighten-4 right\" href=\"#!\">More Links</a>\r\n        </div>\r\n      </div>\r\n    </footer>\r\n    <!-- jQuery CDN -->\r\n  \t<script src=\"https://code.jquery.com/jquery-3.2.1.min.js\" integrity=\"sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=\" crossorigin=\"anonymous\"></script>\r\n    <!-- Materialize JS CDN -->\r\n  \t<script src=\"https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js\"></script>\r\n    <script>\r\n      $(\"document\").ready(function(){\r\n        $(\".button-collapse\").sideNav();\r\n      });\r\n    </script>\r\n  </body>\r\n</html>\r\n",
+		"body": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n  <head>\r\n  \t<meta charset=\"UTF-8\">\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>\r\n  \t<title>Title of the document</title>\r\n    <!-- Material Icon CDN -->\r\n  \t<link href=\"https://fonts.googleapis.com/icon?family=Material+Icons\" rel=\"stylesheet\">\r\n    <!-- Materialize CSS CDN -->\r\n  \t<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css\">\r\n    <!-- Your custom styles -->\r\n  \t<link rel=\"stylesheet\" href=\"css/style.css\">\r\n    <!-- Used as an example only to position the footer at the end of the page.\r\n    You can delete these styles or move it to your custom css file -->\r\n    <style>\r\n      body {\r\n        display: flex;\r\n        min-height: 100vh;\r\n        flex-direction: column;\r\n        }\r\n      main {\r\n        flex: 1 0 auto;\r\n      }\r\n    </style>\r\n  </head>\r\n  <body>\r\n    <header>\r\n      <nav class=\"cyan\">\r\n        <div class=\"nav-wrapper\">\r\n          <div class=\"container\">\r\n            <a href=\"#\" class=\"brand-logo\">LOGO</a>\r\n            <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse\"><i class=\"material-icons\">menu</i></a>\r\n            <ul class=\"right hide-on-med-and-down\">\r\n              <li><a href=\"#\">item1</a></li>\r\n              <li><a href=\"#\">item2</a></li>\r\n              <li><a href=\"#\">item3</a></li>\r\n              <li><a href=\"#\">item4</a></li>\r\n            </ul>\r\n            <ul class=\"side-nav\" id=\"mobile-menu\">\r\n              <li>\r\n                <div class=\"userView\">\r\n                  <div class=\"background\">\r\n                    <img src=\"http://lorempixel.com/output/abstract-q-c-640-480-10.jpg\" alt=\"Background Sidenav\">\r\n                  </div>\r\n                  <a href=\"#!user\"><img class=\"circle\" src=\"http://lorempixel.com/output/people-q-c-640-480-9.jpg\" alt=\"User Image Sidenav\"></a>\r\n                  <a href=\"#!name\"><span class=\"white-text name\">John Doe</span></a>\r\n                  <a href=\"#!email\"><span class=\"white-text email\">jdandturk@gmail.com</span></a>\r\n                </div>\r\n              </li>\r\n              <li><a href=\"#\">item1</a></li>\r\n              <li><a href=\"#\">item2</a></li>\r\n              <li><a href=\"#\">item3</a></li>\r\n              <li><a href=\"#\">item4</a></li>\r\n            </ul>\r\n          </div>\r\n        </div>\r\n      </nav>\r\n    </header>\r\n  \t<main>\r\n      <!-- Your content here -->\r\n    </main>\r\n    <footer class=\"page-footer cyan\">\r\n      <div class=\"container\">\r\n        <div class=\"row\">\r\n          <div class=\"col s12 m8 l6\">\r\n            <h5 class=\"white-text\">First Footer Content</h5>\r\n            <p class=\"grey-text text-lighten-4\">You can use rows and columns here to organize your footer content.</p>\r\n          </div>\r\n          <div class=\"col s12 m4 l6\">\r\n            <h5 class=\"white-text\">Second Footer Content</h5>\r\n            <p class=\"grey-text text-lighten-4\">You can use rows and columns here to organize your footer content.</p>\r\n          </div>\r\n        </div>\r\n      </div>\r\n      <div class=\"footer-copyright\">\r\n        <div class=\"container\">\r\n          © 2017 Copyright Text\r\n          <a class=\"grey-text text-lighten-4 right\" href=\"#!\">More Links</a>\r\n        </div>\r\n      </div>\r\n    </footer>\r\n    <!-- jQuery CDN -->\r\n  \t<script src=\"https://code.jquery.com/jquery-3.2.1.min.js\" integrity=\"sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=\" crossorigin=\"anonymous\"></script>\r\n    <!-- Materialize JS CDN -->\r\n  \t<script src=\"https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js\"></script>\r\n    <script>\r\n      $(\"document\").ready(function(){\r\n        $(\".button-collapse\").sideNav();\r\n      });\r\n    </script>\r\n  </body>\r\n</html>",
 		"description": "Basic html structure using cdn",
 		"scope": "text.html"
 	},
 	"mz-template:local": {
 		"prefix": "mz-template:local",
-		"body": "\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n  <head>\r\n  \t<meta charset=\"UTF-8\">\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>\r\n  \t<title>Title of the document</title>\r\n    <!-- Material Icon CDN -->\r\n  \t<link href=\"https://fonts.googleapis.com/icon?family=Material+Icons\" rel=\"stylesheet\">\r\n    <!-- Path of the materialize.min.css file -->\r\n  \t<link rel=\"stylesheet\" href=\"css/materialize.min.css\" media=\"screen,projection\">\r\n    <!-- Custom css file path -->\r\n  \t<link rel=\"stylesheet\" href=\"css/style.css\">\r\n    <!-- Used as an example only to position the footer at the end of the page.\r\n      You can delete these styles or move it to your custom css file -->\r\n    <style>\r\n      body {\r\n        display: flex;\r\n        min-height: 100vh;\r\n        flex-direction: column;\r\n      }  \r\n      main {\r\n        flex: 1 0 auto;\r\n      }\r\n    </style>\r\n  </head>\r\n  <body>\r\n    <header>\r\n      <nav class=\"cyan\">\r\n        <div class=\"nav-wrapper\">\r\n          <div class=\"container\">\r\n            <a href=\"#\" class=\"brand-logo\">LOGO</a>\r\n            <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse\"><i class=\"material-icons\">menu</i></a>\r\n            <ul class=\"right hide-on-med-and-down\">\r\n              <li><a href=\"#\">item1</a></li>\r\n              <li><a href=\"#\">item2</a></li>\r\n              <li><a href=\"#\">item3</a></li>\r\n              <li><a href=\"#\">item4</a></li>\r\n            </ul>\r\n            <ul class=\"side-nav\" id=\"mobile-menu\">\r\n              <li>\r\n                <div class=\"userView\">\r\n                  <div class=\"background\">\r\n                    <img src=\"http://lorempixel.com/output/abstract-q-c-640-480-10.jpg\" alt=\"Background Sidenav\">\r\n                  </div>\r\n                  <a href=\"#!user\"><img class=\"circle\" src=\"http://lorempixel.com/output/people-q-c-640-480-9.jpg\" alt=\"User Image Sidenav\"></a>\r\n                  <a href=\"#!name\"><span class=\"white-text name\">John Doe</span></a>\r\n                  <a href=\"#!email\"><span class=\"white-text email\">jdandturk@gmail.com</span></a>\r\n                </div>\r\n              </li>\r\n              <li><a href=\"#\">item1</a></li>\r\n              <li><a href=\"#\">item2</a></li>\r\n              <li><a href=\"#\">item3</a></li>\r\n              <li><a href=\"#\">item4</a></li>\r\n            </ul>\r\n          </div>\r\n        </div>\r\n      </nav>\r\n    </header>\r\n    <main>\r\n      <!-- Your content here -->\r\n    </main>\r\n    <footer class=\"page-footer cyan\">\r\n      <div class=\"container\">\r\n        <div class=\"row\">\r\n          <div class=\"col s12 m8 l6\">\r\n            <h5 class=\"white-text\">First Footer Content</h5>\r\n            <p class=\"grey-text text-lighten-4\">You can use rows and columns here to organize your footer content.</p>\r\n          </div>\r\n          <div class=\"col s12 m4 l6\">\r\n            <h5 class=\"white-text\">Second Footer Content</h5>\r\n            <p class=\"grey-text text-lighten-4\">You can use rows and columns here to organize your footer content.</p>\r\n          </div>\r\n        </div>\r\n      </div>\r\n      <div class=\"footer-copyright\">\r\n        <div class=\"container\">\r\n          © 2017 Copyright Text\r\n          <a class=\"grey-text text-lighten-4 right\" href=\"#!\">More Links</a>\r\n        </div>\r\n      </div>\r\n    </footer>\r\n    <!-- The jQuery file path -->\r\n  \t<script src=\"js/jquery.min.js\"></script>\r\n    <!-- Path of the materialize.min.js file -->\r\n  \t<script src=\"js/materialize.min.js\"></script>\r\n    <script>\r\n      $(\"document\").ready(function(){\r\n        $(\".button-collapse\").sideNav();\r\n      });\r\n    </script>\r\n  </body>\r\n</html>\r\n",
+		"body": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n  <head>\r\n  \t<meta charset=\"UTF-8\">\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>\r\n  \t<title>Title of the document</title>\r\n    <!-- Material Icon CDN -->\r\n  \t<link href=\"https://fonts.googleapis.com/icon?family=Material+Icons\" rel=\"stylesheet\">\r\n    <!-- Path of the materialize.min.css file -->\r\n  \t<link rel=\"stylesheet\" href=\"css/materialize.min.css\" media=\"screen,projection\">\r\n    <!-- Custom css file path -->\r\n  \t<link rel=\"stylesheet\" href=\"css/style.css\">\r\n    <!-- Used as an example only to position the footer at the end of the page.\r\n      You can delete these styles or move it to your custom css file -->\r\n    <style>\r\n      body {\r\n        display: flex;\r\n        min-height: 100vh;\r\n        flex-direction: column;\r\n      }  \r\n      main {\r\n        flex: 1 0 auto;\r\n      }\r\n    </style>\r\n  </head>\r\n  <body>\r\n    <header>\r\n      <nav class=\"cyan\">\r\n        <div class=\"nav-wrapper\">\r\n          <div class=\"container\">\r\n            <a href=\"#\" class=\"brand-logo\">LOGO</a>\r\n            <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse\"><i class=\"material-icons\">menu</i></a>\r\n            <ul class=\"right hide-on-med-and-down\">\r\n              <li><a href=\"#\">item1</a></li>\r\n              <li><a href=\"#\">item2</a></li>\r\n              <li><a href=\"#\">item3</a></li>\r\n              <li><a href=\"#\">item4</a></li>\r\n            </ul>\r\n            <ul class=\"side-nav\" id=\"mobile-menu\">\r\n              <li>\r\n                <div class=\"userView\">\r\n                  <div class=\"background\">\r\n                    <img src=\"http://lorempixel.com/output/abstract-q-c-640-480-10.jpg\" alt=\"Background Sidenav\">\r\n                  </div>\r\n                  <a href=\"#!user\"><img class=\"circle\" src=\"http://lorempixel.com/output/people-q-c-640-480-9.jpg\" alt=\"User Image Sidenav\"></a>\r\n                  <a href=\"#!name\"><span class=\"white-text name\">John Doe</span></a>\r\n                  <a href=\"#!email\"><span class=\"white-text email\">jdandturk@gmail.com</span></a>\r\n                </div>\r\n              </li>\r\n              <li><a href=\"#\">item1</a></li>\r\n              <li><a href=\"#\">item2</a></li>\r\n              <li><a href=\"#\">item3</a></li>\r\n              <li><a href=\"#\">item4</a></li>\r\n            </ul>\r\n          </div>\r\n        </div>\r\n      </nav>\r\n    </header>\r\n    <main>\r\n      <!-- Your content here -->\r\n    </main>\r\n    <footer class=\"page-footer cyan\">\r\n      <div class=\"container\">\r\n        <div class=\"row\">\r\n          <div class=\"col s12 m8 l6\">\r\n            <h5 class=\"white-text\">First Footer Content</h5>\r\n            <p class=\"grey-text text-lighten-4\">You can use rows and columns here to organize your footer content.</p>\r\n          </div>\r\n          <div class=\"col s12 m4 l6\">\r\n            <h5 class=\"white-text\">Second Footer Content</h5>\r\n            <p class=\"grey-text text-lighten-4\">You can use rows and columns here to organize your footer content.</p>\r\n          </div>\r\n        </div>\r\n      </div>\r\n      <div class=\"footer-copyright\">\r\n        <div class=\"container\">\r\n          © 2017 Copyright Text\r\n          <a class=\"grey-text text-lighten-4 right\" href=\"#!\">More Links</a>\r\n        </div>\r\n      </div>\r\n    </footer>\r\n    <!-- The jQuery file path -->\r\n  \t<script src=\"js/jquery.min.js\"></script>\r\n    <!-- Path of the materialize.min.js file -->\r\n  \t<script src=\"js/materialize.min.js\"></script>\r\n    <script>\r\n      $(\"document\").ready(function(){\r\n        $(\".button-collapse\").sideNav();\r\n      });\r\n    </script>\r\n  </body>\r\n</html>",
 		"description": "Basic html structure using local files",
 		"scope": "text.html"
 	}
