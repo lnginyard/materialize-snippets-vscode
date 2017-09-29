@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.2.2 - (29 Sep 2017)
+- Updated the link CDN for CSS, JS file to 0.100.2
+
 ## 1.1.2 - (03 May 2017)
 - Removed escape characters that insert a line break in the snippets
 
