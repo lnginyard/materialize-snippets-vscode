@@ -1,7 +1,6 @@
 # Materialize CSS Snippets for Visual Studio Code
 A set of Materialize CSS Snippets for Visual Studio Code, ordered semantically following the structure of the documentation officer.
 
-**Sorry for my bad English, not my natural language is**
 
 ## How to install
 
@@ -11,7 +10,7 @@ A set of Materialize CSS Snippets for Visual Studio Code, ordered semantically f
 4. Reload or restart VScode for the changes to take effect.
 
 ## How to use
-![example-use](http://i.imgur.com/korifPt.jpg)
+![example-use](images/mz-example.jpg)
 
 Snippets are arranged according to the structure of the official documentation of Materialize css, only type **mz-** and the component that you want to use. Example: **mz-card** This will show you all available for the card component snippets.
 Remember to put the word **mz-** and then the component that you want to call, **card, btn, table, navbar, sidenav** etc...
