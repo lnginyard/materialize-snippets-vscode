@@ -1,10 +1,5 @@
 # Change Log
 
-## 1.3.2 - (22 Feb 2018)
-- Added support for Ruby and Ruby on Rails files (.rb | .erb). Thank you [Giancarlopro](https://github.com/giancarlopro) for the request
-
-- Added support for PHP files (.php)
-
 ## 1.2.2 - (29 Sep 2017)
 - Updated the link CDN for CSS, JS file to 0.100.2
 
