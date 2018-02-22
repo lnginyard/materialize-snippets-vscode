@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.3 - (22 Feb 2018)
+- Support added for .rb .erb and php files. Thanks [Giancarlo Rocha](https://github.com/giancarlopro) for the request
+
 ## 1.3.3 - (22 Feb 2018)
 - Solve some errors
 
