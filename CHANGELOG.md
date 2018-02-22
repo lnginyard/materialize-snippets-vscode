@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.3.3 - (22 Feb 2018)
+- Solve some errors
+
 ## 1.2.2 - (29 Sep 2017)
 - Updated the link CDN for CSS, JS file to 0.100.2
 
