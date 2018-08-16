@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.4.4 - (15 Aug 2018)
+- Support for blade files when Laravel Blade Snippets extension installed (.blade.php). Thank you [Amer Sawan](https://github.com/amersaw) for adding this support.
+
 ## 1.4.3 - (22 Feb 2018)
 - Support added for .rb .erb and php files. Thanks [Giancarlo Rocha](https://github.com/giancarlopro) for the request
 
