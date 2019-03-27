@@ -3,7 +3,7 @@
     "displayName": "Materialize Snippets",
     "description": "A set of Materialize CSS Snippets for Visual Studio Code.",
     "icon": "images/icon.png",
-    "version": "1.4.4",
+    "version": "1.4.5",
     "publisher": "leninp",
     "license": "See License section in LICENSE.md",
     "bugs": {
