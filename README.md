@@ -1,4 +1,12 @@
 # Materialize CSS Snippets for Visual Studio Code
+
+
+## Attention.
+
+**Due to the current *political, economic and social* situation of my country Venezuela**, I can not continue to maintain this extension, if you somehow or other want to continue maintaining this project let me know through an issue in the repository in Github.
+
+
+
 A set of Materialize CSS Snippets for Visual Studio Code, ordered semantically following the structure of the documentation officer.
 
 
