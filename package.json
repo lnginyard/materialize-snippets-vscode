@@ -4,15 +4,15 @@
     "description": "A set of Materialize CSS Snippets for Visual Studio Code.",
     "icon": "images/icon.png",
     "version": "1.4.5",
-    "publisher": "leninp",
+    "publisher": "lnginyard",
     "license": "See License section in LICENSE.md",
     "bugs": {
-        "url": "https://github.com/leninalbertolp/materialize-snippets-vscode/issues"
+        "url": "https://github.com/lnginyard/materialize/issues-snippets-vscode/issues"
     },
-    "homepage": "https://github.com/leninalbertolp/materialize-snippets-vscode/blob/master/README.md",
+    "homepage": "https://github.com/lnginyard/materialize-snippets-vscode/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/leninalbertolp/materialize-snippets-vscode.git"
+        "url": "https://github.com/lnginyard/materialize-snippets-vscode.git"
     },
     "engines": {
         "vscode": "^1.5.0"
@@ -31,8 +31,7 @@
         "snippets"
     ],
     "contributes": {
-        "snippets": [
-            {
+        "snippets": [{
                 "language": "html",
                 "path": "./snippets/snippets.json"
             },
@@ -41,12 +40,12 @@
                 "path": "./snippets/snippets.json"
             },
             {
-              "language": "php",
-              "path": "./snippets/snippets.json"
+                "language": "php",
+                "path": "./snippets/snippets.json"
             },
             {
-              "language": "blade",
-              "path": "./snippets/snippets.json"
+                "language": "blade",
+                "path": "./snippets/snippets.json"
             }
         ]
     }
