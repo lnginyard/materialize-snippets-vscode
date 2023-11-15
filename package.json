@@ -15,7 +15,7 @@
         "url": "https://github.com/lnginyard/materialize-snippets-vscode.git"
     },
     "engines": {
-        "vscode": "^1.5.0"
+        "vscode": "^2023.0.0"
     },
     "galleryBanner": {
         "color": "#ee6e73",
