@@ -62,7 +62,7 @@
 	"mz-btn:flat-disabled": {
 		"prefix": "mz-btn:flat-disabled",
 		"body": "<a href=\"#\" class=\"btn-flat disabled\">button</a>",
-		"description": "Button falt disabled",
+		"description": "Button flat disabled",
 		"scope": "text.html"
 	},
 	"mz-btn:flat": {
@@ -669,6 +669,200 @@
 		"prefix": "mz-template:local",
 		"body": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n  <head>\r\n  \t<meta charset=\"UTF-8\">\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>\r\n  \t<title>Title of the document</title>\r\n    <!-- Material Icon CDN -->\r\n  \t<link href=\"https://fonts.googleapis.com/icon?family=Material+Icons\" rel=\"stylesheet\">\r\n    <!-- Path of the materialize.min.css file -->\r\n  \t<link rel=\"stylesheet\" href=\"css/materialize.min.css\" media=\"screen,projection\">\r\n    <!-- Custom css file path -->\r\n  \t<link rel=\"stylesheet\" href=\"css/style.css\">\r\n    <!-- Used as an example only to position the footer at the end of the page.\r\n      You can delete these styles or move it to your custom css file -->\r\n    <style>\r\n      body {\r\n        display: flex;\r\n        min-height: 100vh;\r\n        flex-direction: column;\r\n      }  \r\n      main {\r\n        flex: 1 0 auto;\r\n      }\r\n    </style>\r\n  </head>\r\n  <body>\r\n    <header>\r\n      <nav class=\"cyan\">\r\n        <div class=\"nav-wrapper\">\r\n          <div class=\"container\">\r\n            <a href=\"#\" class=\"brand-logo\">LOGO</a>\r\n            <a href=\"#\" data-activates=\"mobile-menu\" class=\"button-collapse\"><i class=\"material-icons\">menu</i></a>\r\n            <ul class=\"right hide-on-med-and-down\">\r\n              <li><a href=\"#\">item1</a></li>\r\n              <li><a href=\"#\">item2</a></li>\r\n              <li><a href=\"#\">item3</a></li>\r\n              <li><a href=\"#\">item4</a></li>\r\n            </ul>\r\n            <ul class=\"side-nav\" id=\"mobile-menu\">\r\n              <li>\r\n                <div class=\"userView\">\r\n                  <div class=\"background\">\r\n                    <img src=\"http://lorempixel.com/output/abstract-q-c-640-480-10.jpg\" alt=\"Background Sidenav\">\r\n                  </div>\r\n                  <a href=\"#!user\"><img class=\"circle\" src=\"http://lorempixel.com/output/people-q-c-640-480-9.jpg\" alt=\"User Image Sidenav\"></a>\r\n                  <a href=\"#!name\"><span class=\"white-text name\">John Doe</span></a>\r\n                  <a href=\"#!email\"><span class=\"white-text email\">jdandturk@gmail.com</span></a>\r\n                </div>\r\n              </li>\r\n              <li><a href=\"#\">item1</a></li>\r\n              <li><a href=\"#\">item2</a></li>\r\n              <li><a href=\"#\">item3</a></li>\r\n              <li><a href=\"#\">item4</a></li>\r\n            </ul>\r\n          </div>\r\n        </div>\r\n      </nav>\r\n    </header>\r\n    <main>\r\n      <!-- Your content here -->\r\n    </main>\r\n    <footer class=\"page-footer cyan\">\r\n      <div class=\"container\">\r\n        <div class=\"row\">\r\n          <div class=\"col s12 m8 l6\">\r\n            <h5 class=\"white-text\">First Footer Content</h5>\r\n            <p class=\"grey-text text-lighten-4\">You can use rows and columns here to organize your footer content.</p>\r\n          </div>\r\n          <div class=\"col s12 m4 l6\">\r\n            <h5 class=\"white-text\">Second Footer Content</h5>\r\n            <p class=\"grey-text text-lighten-4\">You can use rows and columns here to organize your footer content.</p>\r\n          </div>\r\n        </div>\r\n      </div>\r\n      <div class=\"footer-copyright\">\r\n        <div class=\"container\">\r\n          © 2017 Copyright Text\r\n          <a class=\"grey-text text-lighten-4 right\" href=\"#!\">More Links</a>\r\n        </div>\r\n      </div>\r\n    </footer>\r\n    <!-- The jQuery file path -->\r\n  \t<script src=\"js/jquery.min.js\"></script>\r\n    <!-- Path of the materialize.min.js file -->\r\n  \t<script src=\"js/materialize.min.js\"></script>\r\n    <script>\r\n      $(\"document\").ready(function(){\r\n        $(\".button-collapse\").sideNav();\r\n      });\r\n    </script>\r\n  </body>\r\n</html>",
 		"description": "Basic html structure using local files",
+		"scope": "text.html"
+	},
+	"mz-grid:responsive": {
+		"prefix": "mz-grid:responsive",
+		"body": [
+			"<div class=\"row\">",
+			"  <div class=\"col s12 m6 l4\">Column 1</div>",
+			"  <div class=\"col s12 m6 l4\">Column 2</div>",
+			"  <div class=\"col s12 m12 l4\">Column 3</div>",
+			"</div>"
+		],
+		"description": "Responsive Materialize grid layout",
+		"scope": "text.html"
+	},
+	"mz-card:image-action": {
+		"prefix": "mz-card:image-action",
+		"body": [
+			"<div class=\"card\">",
+			"  <div class=\"card-image\">",
+			"    <img src=\"https://materializecss.com/images/sample-1.jpg\">",
+			"    <span class=\"card-title\">Card Title</span>",
+			"    <a class=\"btn-floating halfway-fab waves-effect waves-light red\"><i class=\"material-icons\">add</i></a>",
+			"  </div>",
+			"  <div class=\"card-content\">",
+			"    <p>I am a very simple card. I am good at containing small bits of information.</p>",
+			"  </div>",
+			"  <div class=\"card-action\">",
+			"    <a href=\"#\">This is a link</a>",
+			"  </div>",
+			"</div>"
+		],
+		"description": "Materialize card with image and action button",
+		"scope": "text.html"
+	},
+	"mz-modal:basic": {
+		"prefix": "mz-modal:basic",
+		"body": [
+			"<!-- Modal Trigger -->",
+			"<a class=\"waves-effect waves-light btn modal-trigger\" href=\"#modal1\">Open Modal</a>",
+			"<!-- Modal Structure -->",
+			"<div id=\"modal1\" class=\"modal\">",
+			"  <div class=\"modal-content\">",
+			"    <h4>Modal Header</h4>",
+			"    <p>A bunch of text</p>",
+			"  </div>",
+			"  <div class=\"modal-footer\">",
+			"    <a href=\"#!\" class=\"modal-close waves-effect waves-green btn-flat\">Agree</a>",
+			"  </div>",
+			"</div>",
+			"<script>",
+			"  document.addEventListener('DOMContentLoaded', function() {",
+			"    var elems = document.querySelectorAll('.modal');",
+			"    M.Modal.init(elems);",
+			"  });",
+			"</script>"
+		],
+		"description": "Materialize modal with initialization script",
+		"scope": "text.html"
+	},
+	"mz-sidenav:init": {
+		"prefix": "mz-sidenav:init",
+		"body": [
+			"<a href=\"#\" data-target=\"slide-out\" class=\"sidenav-trigger\"><i class=\"material-icons\">menu</i></a>",
+			"<ul id=\"slide-out\" class=\"sidenav\">",
+			"  <li><a href=\"#!\">First Sidebar Link</a></li>",
+			"  <li><a href=\"#!\">Second Sidebar Link</a></li>",
+			"</ul>",
+			"<script>",
+			"  document.addEventListener('DOMContentLoaded', function() {",
+			"    var elems = document.querySelectorAll('.sidenav');",
+			"    M.Sidenav.init(elems);",
+			"  });",
+			"</script>"
+		],
+		"description": "Materialize side nav with initialization script",
+		"scope": "text.html"
+	},
+	"mz-form:validated": {
+		"prefix": "mz-form:validated",
+		"body": [
+			"<form>",
+			"  <div class=\"input-field\">",
+			"    <input id=\"email\" type=\"email\" class=\"validate\" required aria-required=\"true\">",
+			"    <label for=\"email\">Email</label>",
+			"    <span class=\"helper-text\" data-error=\"Invalid email\" data-success=\"Valid\">Enter a valid email</span>",
+			"  </div>",
+			"  <button class=\"btn waves-effect waves-light\" type=\"submit\">Submit",
+			"    <i class=\"material-icons right\">send</i>",
+			"  </button>",
+			"</form>"
+		],
+		"description": "Accessible Materialize form with validation",
+		"scope": "text.html"
+	},
+	"mz-chips:basic": {
+		"prefix": "mz-chips:basic",
+		"body": [
+			"<div class=\"chips\">",
+			"  <input class=\"custom-class\" type=\"text\" placeholder=\"Add a chip\">",
+			"</div>"
+		],
+		"description": "Materialize chips input",
+		"scope": "text.html"
+	},
+	"mz-tooltip:basic": {
+		"prefix": "mz-tooltip:basic",
+		"body": [
+			"<a class=\"btn tooltipped\" data-position=\"bottom\" data-tooltip=\"I am a tooltip\">Hover me!</a>",
+			"<script>",
+			"  document.addEventListener('DOMContentLoaded', function() {",
+			"    var elems = document.querySelectorAll('.tooltipped');",
+			"    M.Tooltip.init(elems);",
+			"  });",
+			"</script>"
+		],
+		"description": "Materialize tooltip with initialization script",
+		"scope": "text.html"
+	},
+	"mz-collapsible:basic": {
+		"prefix": "mz-collapsible:basic",
+		"body": [
+			"<ul class=\"collapsible\">",
+			"  <li>",
+			"    <div class=\"collapsible-header\"><i class=\"material-icons\">filter_drama</i>First</div>",
+			"    <div class=\"collapsible-body\"><span>Lorem ipsum dolor sit amet.</span></div>",
+			"  </li>",
+			"  <li>",
+			"    <div class=\"collapsible-header\"><i class=\"material-icons\">place</i>Second</div>",
+			"    <div class=\"collapsible-body\"><span>Lorem ipsum dolor sit amet.</span></div>",
+			"  </li>",
+			"</ul>",
+			"<script>",
+			"  document.addEventListener('DOMContentLoaded', function() {",
+			"    var elems = document.querySelectorAll('.collapsible');",
+			"    M.Collapsible.init(elems);",
+			"  });",
+			"</script>"
+		],
+		"description": "Materialize collapsible element with initialization script",
+		"scope": "text.html"
+	},
+	"mz-darkmode:toggle": {
+		"prefix": "mz-darkmode:toggle",
+		"body": [
+			"<a class=\"btn\" id=\"dark-toggle\">Toggle Dark Mode</a>",
+			"<script>",
+			"  document.getElementById('dark-toggle').onclick = function() {",
+			"    document.body.classList.toggle('dark-mode');",
+			"  };",
+			"</script>",
+			"<style>",
+			"  .dark-mode { background: #222; color: #fff; }",
+			"</style>"
+		],
+		"description": "Simple dark mode toggle for Materialize apps",
+		"scope": "text.html"
+	},
+	"mz-btn:react-ts": {
+		"prefix": "mz-btn:react-ts",
+		"body": [
+			"import React from 'react';",
+			"type Props = { children: React.ReactNode; onClick?: () => void };",
+			"export const MzButton: React.FC<Props> = ({ children, onClick }) => (",
+			"  <button className=\"btn waves-effect waves-light\" onClick={onClick}>",
+			"    {children}",
+			"  </button>",
+			");"
+		],
+		"description": "Materialize button as a React TypeScript component",
+		"scope": "typescript,typescriptreact,javascript,javascriptreact"
+	},
+	"mz-dashboard:starter": {
+		"prefix": "mz-dashboard:starter",
+		"body": [
+			"<div class=\"row\">",
+			"  <div class=\"col s12 m4\">",
+			"    <div class=\"card blue-grey darken-1\">",
+			"      <div class=\"card-content white-text\">",
+			"        <span class=\"card-title\">Dashboard Card</span>",
+			"        <p>Some quick dashboard info.</p>",
+			"      </div>",
+			"    </div>",
+			"  </div>",
+			"  <div class=\"col s12 m8\">",
+			"    <div class=\"card\">",
+			"      <div class=\"card-content\">",
+			"        <span class=\"card-title\">Main Content</span>",
+			"        <p>Main dashboard area.</p>",
+			"      </div>",
+			"    </div>",
+			"  </div>",
+			"</div>"
+		],
+		"description": "Materialize dashboard starter layout",
 		"scope": "text.html"
 	}
 }

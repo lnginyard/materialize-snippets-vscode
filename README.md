@@ -1,9 +1,12 @@
 # Materialize CSS Snippets for Visual Studio Code
 
+Modern, accessible, and framework-friendly Materialize CSS snippets for Visual Studio Code.
 
+---
 
+> **Maintained by Lorenzo Ginyard**
 
-
+---
 
 A set of Materialize CSS Snippets for Visual Studio Code, ordered semantically following the structure of the documentation officer.
 
@@ -116,3 +119,37 @@ Remember to put the word **mz-** and then the component that you want to call, *
 | mz-chips: | contact | Chip Contacts|
 | mz-chips: | tags | Chip Tags|
 | mz-chips: | tags-close | Chip tag with icon close|
+
+## New in v1.5.0 (July 2025)
+
+This release the new maintainer for MZ Snippets, Lorenzo brings a major update with new, modern snippets and improved support for today's developers:
+
+- Responsive grid layouts
+- Cards with images and actions
+- Modals (with initialization JS)
+- Side nav (with initialization JS)
+- Accessible forms with validation
+- Chips and tooltips
+- Collapsible elements
+- Dark mode toggle
+- React/TypeScript Materialize button component
+- Dashboard starter layout
+
+### Usage
+
+Type `mz-` followed by the component or feature you want (e.g., `mz-grid`, `mz-card`, `mz-modal`, `mz-btn:react-ts`).
+
+### New Snippets Table
+| Snippet | Description |
+|---------|-------------|
+| mz-grid:responsive | Responsive Materialize grid layout |
+| mz-card:image-action | Card with image and action button |
+| mz-modal:basic | Modal with initialization script |
+| mz-sidenav:init | Side nav with initialization script |
+| mz-form:validated | Accessible form with validation |
+| mz-chips:basic | Chips input |
+| mz-tooltip:basic | Tooltip with initialization script |
+| mz-collapsible:basic | Collapsible element with initialization script |
+| mz-darkmode:toggle | Dark mode toggle |
+| mz-btn:react-ts | React/TypeScript Materialize button |
+| mz-dashboard:starter | Dashboard starter layout |

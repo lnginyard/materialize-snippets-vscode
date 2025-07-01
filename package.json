@@ -3,8 +3,8 @@
     "displayName": "Materialize Snippets",
     "description": "A set of Materialize CSS Snippets for Visual Studio Code.",
     "icon": "images/icon.png",
-    "version": "1.4.5",
-    "publisher": "lnginyard",
+    "version": "1.5.0",
+    "publisher": "lorenzoginyard",
     "license": "See License section in LICENSE.md",
     "bugs": {
         "url": "https://github.com/lnginyard/materialize/issues-snippets-vscode/issues"
@@ -28,10 +28,15 @@
         "materialize",
         "html",
         "css",
-        "snippets"
+        "snippets",
+        "typescript",
+        "react",
+        "dashboard",
+        "modern"
     ],
     "contributes": {
-        "snippets": [{
+        "snippets": [
+            {
                 "language": "html",
                 "path": "./snippets/snippets.json"
             },
@@ -45,6 +50,22 @@
             },
             {
                 "language": "blade",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascriptreact",
                 "path": "./snippets/snippets.json"
             }
         ]
