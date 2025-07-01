@@ -122,7 +122,7 @@ Remember to put the word **mz-** and then the component that you want to call, *
 
 ## New in v1.5.0 (July 2025)
 
-This release the new maintainer for MZ Snippets, Lorenzo brings a major update with new, modern snippets and improved support for today's developers:
+This release brings a major update with new, modern snippets and improved support for today's developers:
 
 - Responsive grid layouts
 - Cards with images and actions
