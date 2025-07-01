@@ -3,7 +3,7 @@
 ## 1.5.0 - (1 July 2025)
 - Major update: Added modern Materialize snippets for responsive grid, cards, modals, sidenav, forms, chips, tooltips, collapsibles, dark mode toggle, React/TypeScript button, and dashboard starter layout.
 - Improved accessibility and framework support (TypeScript, React, etc).
-- Updated documentation and metadata.
+- Updated documentation and metadata. Thank you [Lorenzo Ginyard](https://github.com/lnginyard)
 
 ## 1.4.4 - (15 Aug 2018)
 - Support for blade files when Laravel Blade Snippets extension installed (.blade.php). Thank you [Amer Sawan](https://github.com/amersaw) for adding this support.
