@@ -34,5 +34,5 @@ jobs:
       - name: Upload VSIX artifact
         uses: actions/upload-artifact@v4
         with:
-          name: mz-snipster-vsix
+          name: materialize-snippets-vsix
           path: '*.vsix'
