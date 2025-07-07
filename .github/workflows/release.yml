@@ -29,7 +29,12 @@ jobs:
       - name: Publish to VS Code Marketplace
         env:
           VSCE_PAT: ${{ secrets.VSCE_PAT }}
-        run: vsce publish --pat $VSCE_PAT
+        run: |
+          if [ -z "$VSCE_PAT" ]; then
+            echo "VSCE_PAT secret is not set. Please add it in your repository settings under Settings > Secrets and variables > Actions.";
+            exit 1;
+          fi
+          vsce publish --pat $VSCE_PAT
 
       - name: Upload VSIX artifact
         uses: actions/upload-artifact@v4

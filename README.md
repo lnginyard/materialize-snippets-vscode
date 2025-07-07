@@ -10,7 +10,6 @@ Modern, accessible, and framework-friendly Materialize CSS snippets for Visual S
 
 A set of Materialize CSS Snippets for Visual Studio Code, ordered semantically following the structure of the documentation officer.
 
-
 ## How to install
 
 1. In VScode type `F1` or `Ctrl-Shift-P` (Windows and Linux) or `Cmd-Shift-P` (MacOS). Type install extension and press enter.
@@ -19,13 +18,16 @@ A set of Materialize CSS Snippets for Visual Studio Code, ordered semantically f
 4. Reload or restart VScode for the changes to take effect.
 
 ## How to use
+
 ![example-use](images/mz-example.jpg)
 
 Snippets are arranged according to the structure of the official documentation of Materialize css, only type **mz-** and the component that you want to use. Example: **mz-card** This will show you all available for the card component snippets.
 Remember to put the word **mz-** and then the component that you want to call, **card, btn, table, navbar, sidenav** etc...
 
-# Table of Contents
+## Table of Contents
+
 ## Template
+
 | Snippet | Snippet Content | Description |
 |---------|-----------------|-------------|
 | mz-template: | cnd | Basic html structure using cdn files |
@@ -33,7 +35,9 @@ Remember to put the word **mz-** and then the component that you want to call, *
 | mz-template: | grid | Basic grid structure |
 
 ## CSS
+
 ### mediacss
+
 | Snippet | Snippet Content | Description |
 |---------|-----------------|-------------|
 | mz-mediacss: | img-circular | Circular Image |
@@ -42,6 +46,7 @@ Remember to put the word **mz-** and then the component that you want to call, *
 | mz-mediacss: | video-responsive | Responsive Video |
 
 ### table
+
 | Snippet | Snippet Content | Description |
 |---------|-----------------|-------------|
 | mz-table: | bordered | Bordered Table |
@@ -52,24 +57,29 @@ Remember to put the word **mz-** and then the component that you want to call, *
 | mz-table: | striped | Striped Table |
 
 ### typography
+
 | Snippet | Snippet Content | Description |
 |---------|-----------------|-------------|
 | mz-typography: | blockquote | Blockquote |
 | mz-typography: | flow-text | Responsive Text |
 
 ## Components
+
 ### badge
+
 | Snippet | Snippet Content | Description |
 |---------|-----------------|-------------|
 | mz-badge: | default | Default Badge |
 | mz-badge: | new | New Badge |
 
 ### breadcrumb
+
 | Snippet | Snippet Content | Description |
 |---------|-----------------|-------------|
 | mz-breadcrumb: | breadcrumb | Breadcrumb|
 
 ### buttons
+
 | Snippet | Snippet Content | Description |
 |---------|-----------------|-------------|
 | mz-btn: | default | Default Button|
@@ -93,6 +103,7 @@ Remember to put the word **mz-** and then the component that you want to call, *
 | mz-btn: | fab-toolbar | Fixed action button toolbar|
 
 ### card
+
 | Snippet | Snippet Content | Description |
 |---------|-----------------|-------------|
 | mz-card: | basic | Basic Card|
@@ -114,6 +125,7 @@ Remember to put the word **mz-** and then the component that you want to call, *
 | mz-card: | reveal-sm | Card reveal small|
 
 ### chips
+
 | Snippet | Snippet Content | Description |
 |---------|-----------------|-------------|
 | mz-chips: | contact | Chip Contacts|
@@ -140,6 +152,7 @@ This release brings a major update with new, modern snippets and improved suppor
 Type `mz-` followed by the component or feature you want (e.g., `mz-grid`, `mz-card`, `mz-modal`, `mz-btn:react-ts`).
 
 ### New Snippets Table
+
 | Snippet | Description |
 |---------|-------------|
 | mz-grid:responsive | Responsive Materialize grid layout |
