@@ -4,7 +4,7 @@ Modern, accessible, and framework-friendly Materialize CSS snippets for Visual S
 
 ---
 
-> **Maintained by Lorenzo Ginyard**
+> **Maintained and Owned by Lorenzo Ginyard**
 
 ---
 
@@ -132,9 +132,9 @@ Remember to put the word **mz-** and then the component that you want to call, *
 | mz-chips: | tags | Chip Tags|
 | mz-chips: | tags-close | Chip tag with icon close|
 
-## New in v1.5.0 (July 2025)
+## We have new additions in v1.5.0 (July 2025)
 
-This release brings a major update with new, modern snippets and improved support for today's developers:
+This release brings a major update with new, modern snippets and improved support for today's modern developers:
 
 - Responsive grid layouts
 - Cards with images and actions
