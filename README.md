@@ -4,7 +4,7 @@ Modern, accessible, and framework-friendly Materialize CSS snippets for Visual S
 
 ---
 
-> **Maintained and Owned by Lorenzo Ginyard**
+> **Created by Lenin Peña leninalbertolp & Maintained by Lorenzo Ginyard**
 
 ---
 
